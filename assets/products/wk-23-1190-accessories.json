@@ -1,0 +1,31 @@
+{
+  "model": "23-1190",
+  "brand": "",
+  "category": "",
+  "categories": [
+    "Optical tooling"
+  ],
+  "images": [
+    "WK-23-1190-Accessories-400x222.jpg"
+  ],
+  "summary": "",
+  "specs": [
+    "Angular range: 0 to 360°",
+    "Graduation interval: 1 or 10 seconds of arc",
+    "Can be estimated to: 2 seconds of arc",
+    "Readings repeatable to: 5 Seconds of arc",
+    "Maximum error between any two readings: 10 seconds of arc",
+    "Reference faces of base flat to within: 0-.0005” (0-.013mm)",
+    "Maximum symmetrical load when used horizontally: 5 lbs.",
+    "Level vial sensitivity: 20 seconds per division",
+    "Base dimensions: 6.5” x 3” (165 mm x 76 mm)",
+    "Overall height: 8.5” (215 mm); Weight: 8.0 lbs. (3.6 kg)",
+    "Accessories: WK-23-1125: Clinometer Worktable WK-23-1130: Auto-Collimating Mirror WK-23-1120: Optical Clinometer Support WK-31-1113: LED Clinometer Illuminator"
+  ],
+  "accessories": [],
+  "condition": "",
+  "availability": "",
+  "status": "available",
+  "id": "wk-23-1190-accessories-400x222",
+  "title": "WK 23-1190 Accessories"
+}

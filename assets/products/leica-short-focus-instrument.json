@@ -1,0 +1,29 @@
+{
+  "model": "Leica Short Focus",
+  "brand": "Leica Geosystems",
+  "category": "Optical instruments",
+  "summary": "Short-focus Leica optical instrument for close-range measurement work.",
+  "specs": [
+    "Short focus optical system",
+    "Leica instrument family",
+    "Ask for current specifications"
+  ],
+  "condition": "Used",
+  "availability": "Ask for availability",
+  "accessories": [
+    "Tripods",
+    "Optical accessories"
+  ],
+  "images": [
+    "leica-short-focus-instrument-001.jpg",
+    "leica-short-focus-instrument-002.jpg",
+    "leica-short-focus-instrument-003.jpg",
+    "leica-short-focus-instrument.jpg"
+  ],
+  "categories": [
+    "Optical instruments"
+  ],
+  "status": "available",
+  "id": "leica-short-focus-instrument",
+  "title": "Leica Short Focus Instrument"
+}

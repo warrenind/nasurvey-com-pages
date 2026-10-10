@@ -1,0 +1,23 @@
+{
+  "model": "531600",
+  "brand": "",
+  "category": "",
+  "categories": [
+    "Optical tooling"
+  ],
+  "images": [
+    "531600.jpeg"
+  ],
+  "summary": "Allows monitoring of two dimensions simultaneously.",
+  "specs": [
+    "Has two optical flats mounted in an aluminum housing so that their axis of rotation are at 90° ±15 arcseconds, and converts any transit level into an alignment telescope.",
+    "Each micrometer translates the line of sight with an accuracy of ±0.0005”.",
+    "Available in English and Metric units. Cast aluminum housing fits the telescope barrel of all Brunson optical tooling transits and levels."
+  ],
+  "accessories": [],
+  "condition": "",
+  "availability": "",
+  "status": "available",
+  "id": "531600",
+  "title": "531600 Micrometer Series"
+}

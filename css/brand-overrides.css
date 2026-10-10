@@ -1,0 +1,178 @@
+:root{--ink:#392619;--muted:#5f695f;--paper:#f4f1e7;--white:#fffdf8;--line:#d6d9ca;--orange:#b4010d;--orange-dark:#8d0009;--sage:#cbd8bd;--deep:#263a2f;--shadow:0 1.125rem 3.125rem #263a2f24}
+.brand{min-width:0}
+.brand img{width:clamp(10.5rem,25vw,18rem);height:auto;padding:.3rem clamp(.2rem,.8vw,.6rem);object-fit:contain;object-position:left center}
+.brand span{display:none}
+.site-header{border-bottom:.25rem solid var(--orange)}
+.utility-bar{background:#263a2f;color:#fffdf8}
+.utility-inner a{color:#e4bd3f}
+.nav-row{min-height:clamp(5.25rem,10vw,7rem);padding-block:0}
+.site-nav>a:not(.nav-quote):hover,.text-link:hover{color:var(--orange)}
+.filter-head button{border:.0625rem solid var(--orange);background:#fffdf8;color:var(--orange-dark);padding:.35rem .65rem;font:500 .75rem 'DM Mono',monospace;cursor:pointer}
+.filter-head button:hover,.filter-head button:focus-visible{background:var(--orange);color:#ffffff}
+.availability-toggle{display:block;margin:0 0 1.125rem;padding:.65rem;background:#e3e8d9;border:0.0625rem solid var(--line);color:var(--ink)}
+.nav-quote,.button{background:var(--orange)}
+.nav-quote:hover,.button-primary:hover{background:var(--orange-dark)}
+.eyebrow{color:var(--orange)}
+.signal-strip{background:#263a2f}
+.feature-band{background:#263a2f}
+.feature-band .eyebrow{color:#e4bd3f}
+.button-light{color:var(--ink);background:var(--white)}
+.closing-cta{background:#cbd8bd}
+.utility-bar{color:#ffffff}
+.signal-strip{color:#ffffff}
+.signal-grid span{color:#dfe8d3}
+.feature-band{color:#ffffff}
+.feature-media{background:#cbd8bd}
+.feature-copy p:not(.eyebrow){color:#dfe8d3}
+.button-light{background:#fffdf8}
+.video-frame{background:#263a2f}.video-section{padding-top:clamp(3.25rem,7vw,5.5rem)}
+/* Product photos sit on their own pure-white plate so a shot taken on a
+   grey sweep or with a warm cast still reads as a cut-out; .detail-image
+   keeps the sage panel it shares with the gallery. */
+.product-image{background:#fff;box-shadow:inset 0 -1px 0 var(--line)}
+.product-body{background:#fff}
+/* Pure white on the cream page has no edge of its own, so the card gets the
+   hairline and soft shadow the quote items already use, plus the hover lift
+   the category cards have — without it the grid reads as flat paper. */
+.product-card{background:#fff;border:.0625rem solid var(--line);border-radius:.5rem;box-shadow:0 .25rem .75rem #263a2f0f;overflow:hidden;transition:transform .25s ease,box-shadow .25s ease}
+.product-card:hover{transform:translateY(-.1875rem);box-shadow:var(--shadow)}
+/* Flex the card so the price row lands on the same baseline across a row
+   instead of floating up under whichever title wrapped to two lines. */
+.product-card{display:flex;flex-direction:column}
+.product-body{flex:1 1 auto;display:flex;flex-direction:column}
+.detail-image{background:#e3e8d9}
+.quote-panel{color:#ffffff}
+.quote-panel span,.quote-panel small{color:#dfe8d3}
+.site-footer{color:#ffffff}
+.site-footer .eyebrow{color:#e4bd3f}
+.footer-grid .eyebrow,.footer-label{color:#e4bd3f}
+.footer-grid a{color:#dfe8d3}
+.footer-grid a:hover{color:#ffffff}
+.footer-bottom{color:#d8cfc3}
+.site-footer{padding-top:clamp(2.5rem,5vw,3.5rem)}
+.footer-grid{padding-bottom:clamp(2rem,4vw,2.75rem)}
+.about-grid{gap:clamp(2rem,7vw,6rem);padding-bottom:clamp(1.5rem,3vw,3.25rem)}
+.about-image{height:clamp(24rem,48vw,40rem);min-height:0;padding:0;overflow:hidden}
+.about-image img{width:100%;height:100%;object-fit:cover}
+.archive-gallery{position:relative;background:#263a2f}
+.archive-gallery img{object-fit:cover;opacity:1;transition:opacity .45s ease}
+.gallery-dots{position:absolute;right:1rem;bottom:1rem;display:flex;align-items:center;gap:.5rem;padding:.4rem .55rem;background:#263a2fe6;color:#fffdf8;font:500 .75rem 'DM Mono',monospace}
+.gallery-dots button{border:0.0625rem solid #e4bd3f;background:transparent;color:#e4bd3f;padding:.2rem .45rem;cursor:pointer}
+.gallery-dots button:hover,.gallery-dots button:focus-visible{background:#e4bd3f;color:#263a2f}
+.about-location{display:grid;grid-template-columns:1fr 1fr;gap:clamp(2rem,6vw,5rem);align-items:center}.about-location>div:first-child{font-size:1.125rem}.about-location>div:first-child h2{font-size:clamp(2.25rem,4.5vw,3.75rem)}.about-location>div:first-child .text-link{font-size:1.125rem}
+.map-frame{min-height:clamp(18rem,32vw,26rem);background:#e3e8d9;position:relative}
+.map-frame iframe{width:100%;height:100%;min-height:inherit;border:0}
+.map-link{position:absolute;right:.75rem;bottom:.75rem;padding:.35rem .55rem;background:#fffdf8;color:#392619;font-size:.75rem}
+.notes-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(1rem,3vw,2.5rem);padding-bottom:clamp(3rem,8vw,7rem)}
+.related-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:clamp(.75rem,2vw,1.25rem);margin-top:1.5rem}
+.related-card{display:block;background:#fffdf8;border:0.0625rem solid var(--line);border-radius:.625rem;overflow:hidden;text-decoration:none;color:var(--ink)}
+.related-card img{width:100%;aspect-ratio:4/3;object-fit:cover;background:#e3e8d9;display:block}
+.related-card span{display:block;padding:.625rem .75rem;font-size:.9375rem;font-weight:600}
+.related-card:hover{border-color:var(--orange);color:var(--orange-dark)}
+/* Needs to out-specify `.related-card span`, which is a class plus a type. */
+.related-card .related-card-flag{display:block;width:fit-content;margin:-.375rem .75rem .75rem;padding:.1875rem .5rem;border-radius:99rem;background:#e3e8d9;color:var(--ink);font:500 .625rem 'DM Mono',monospace;letter-spacing:.06em;text-transform:uppercase;line-height:1.35}
+.related-card .related-card-flag.is-unavailable{background:var(--deep);color:#f0a387}
+.product-new{display:inline-block;margin-left:.375rem;padding:.0625rem .4375rem;border-radius:99rem;background:var(--orange);color:#fffdf8;font:500 .625rem 'DM Mono',monospace;letter-spacing:.06em;text-transform:uppercase;vertical-align:middle}
+.product-kicker .product-new{margin:0 0 .1875rem .375rem}
+.quote-badge{display:inline-flex;align-items:center;justify-content:center;min-width:1.25rem;height:1.25rem;padding:0 .375rem;border-radius:99rem;background:#e4bd3f;color:#263a2f;font:600 .6875rem 'DM Mono',monospace}
+.quote-with{display:flex;flex-wrap:wrap;gap:.5rem;margin:.75rem 0}
+.pill-check{display:inline-flex;align-items:center;gap:.4375rem;background:#ffffff22;border:.0625rem solid #ffffff55;color:#ffffff;font-size:.8125rem;padding:.375rem .625rem;border-radius:99rem;cursor:pointer}
+.pill-check:has(input:checked){background:#e4bd3f;color:#263a2f;border-color:#e4bd3f}
+.pill-check input{position:absolute;opacity:0;pointer-events:none}
+.quote-note{margin:.5rem 0 0;color:#dfe8d3}
+.quote-note[hidden]{display:none}
+.quote-panel .text-link{color:#e4bd3f}
+.quote-panel .text-link:hover{color:#ffffff}
+.quote-stepper{display:grid;gap:.625rem;justify-items:start}
+.quote-qty{display:inline-flex;align-items:center;gap:.375rem;background:#ffffff14;border:.0625rem solid #ffffff55;border-radius:99rem;padding:.1875rem .4375rem;color:#dfe8d3}
+.quote-stepper[data-added="true"] .quote-qty{border-color:#e4bd3f;background:#e4bd3f26}
+.quote-step{width:1.625rem;height:1.625rem;display:grid;place-items:center;padding:0;border:0;border-radius:50%;background:#ffffff1f;color:#ffffff;font:700 1rem/1 Manrope,sans-serif;cursor:pointer}
+.quote-step:hover,.quote-step:focus-visible{background:#e4bd3f;color:#263a2f}
+.quote-qty-readout{min-width:7.25rem;text-align:center;font:500 .6875rem 'DM Mono',monospace;letter-spacing:.06em;text-transform:uppercase;color:inherit;font-variant-numeric:tabular-nums}
+.quote-stepper[data-added="true"] .quote-qty-readout{color:#f4d67a}
+.quote-panel-actions{display:grid;gap:.5rem;width:100%}
+.quote-stepper .button-primary{width:100%;justify-content:center}
+.quote-goto{border:0;background:none;color:#dfe8d3;font:500 .75rem 'DM Mono',monospace;letter-spacing:.06em;text-transform:uppercase;padding:.5rem;cursor:pointer;border-radius:.25rem;text-decoration:underline;text-underline-offset:.1875rem;text-decoration-color:#ffffff59}
+.quote-goto:hover,.quote-goto:focus-visible{color:#fff;text-decoration-color:currentColor}
+.quote-layout{display:grid;grid-template-columns:1.4fr .8fr;gap:clamp(2rem,6vw,5rem);padding-top:clamp(2rem,4vw,3.5rem);padding-bottom:clamp(3rem,8vw,7rem)}
+.quote-list-col{min-width:0}
+.quote-list{display:grid;gap:1rem;margin-top:1.25rem}
+.quote-item{display:grid;grid-template-columns:9rem 1fr auto;gap:1rem;align-items:center;background:#fffdf8;border:.0625rem solid var(--line);border-radius:.625rem;padding:.75rem}
+.quote-item-image{width:9rem;height:6.75rem;overflow:hidden}
+.quote-item-image img{width:100%;height:100%;object-fit:cover;background:#e3e8d9;display:block}
+.quote-item-body .quote-item-kicker{font:500 .6875rem 'DM Mono',monospace;letter-spacing:.09em;text-transform:uppercase;color:var(--orange-dark);margin:0 0 .3125rem}
+.quote-item-body h2{font-size:1.125rem;letter-spacing:-.03em;margin:0 0 .25rem}
+.quote-item-body h2 a:hover{color:var(--orange-dark)}
+.quote-item-body .model{color:var(--muted);font-size:.8125rem;margin:0}
+.quote-item-body .model:empty{display:none}
+.quote-qty-field{display:flex;align-items:center;gap:.625rem;margin-top:.75rem;color:var(--muted);font:500 .75rem 'DM Mono',monospace;text-transform:uppercase;letter-spacing:.06em;flex-wrap:wrap}
+.quote-qty-caption{white-space:nowrap}
+.quote-qty-control{display:inline-flex;align-items:center;gap:.25rem;background:var(--white);border:.0625rem solid var(--line);border-radius:99rem;padding:.1875rem .25rem}
+.quote-page-step{width:1.75rem;height:1.75rem;flex:none;display:grid;place-items:center;padding:0;border:0;border-radius:50%;background:#263a2f14;color:var(--deep);font:700 1.0625rem/1 Manrope,sans-serif;cursor:pointer}
+.quote-page-step:hover,.quote-page-step:focus-visible{background:var(--orange);color:#fff}
+.quote-page-step:focus-visible{outline:.125rem solid var(--orange);outline-offset:.0625rem}
+.quote-page-step:disabled{opacity:.35;cursor:not-allowed}
+.quote-qty-control input{width:2.75rem;padding:.3125rem .125rem;border:0;background:transparent;color:var(--ink);font:600 1rem Manrope,sans-serif;text-align:center;appearance:textfield;-moz-appearance:textfield}
+.quote-qty-control input::-webkit-outer-spin-button,.quote-qty-control input::-webkit-inner-spin-button{appearance:none;margin:0}
+.quote-qty-control input:focus-visible{outline:.125rem solid var(--orange);outline-offset:0;border-radius:.1875rem}
+.quote-qty-control:focus-within{border-color:var(--orange)}
+.quote-remove{border:.0625rem solid var(--line);background:transparent;color:var(--ink);padding:.5rem .8125rem;font-size:.8125rem;font-weight:700;cursor:pointer}
+.quote-remove:hover{color:var(--orange);border-color:var(--orange)}
+.contact-form{display:grid;gap:1rem;align-self:start}
+.contact-form label{display:grid;gap:.375rem;color:var(--muted);font-size:.8125rem;font-weight:600}
+.contact-form h2{font-size:clamp(1.75rem,3.5vw,2.75rem);letter-spacing:-.04em;margin:0}
+.contact-form .form-note{color:var(--muted);margin:0}
+.contact-form input,.contact-form textarea{font:inherit;color:var(--ink);background:var(--white);border:.0625rem solid var(--line);padding:.75rem .875rem}
+.contact-form input:focus-visible,.contact-form textarea:focus-visible{outline:.125rem solid var(--orange);outline-offset:.0625rem}
+.contact-form textarea{resize:vertical}
+.contact-form .button{justify-self:start}
+.form-status{font-weight:700;margin:0}
+.form-status.success{color:#1d7a2e}
+.form-status.error{color:var(--orange)}
+.contact-layout{display:grid;grid-template-columns:1fr 1fr;gap:clamp(2rem,6vw,5rem);padding-top:clamp(2rem,4vw,3.5rem);padding-bottom:clamp(3rem,8vw,7rem)}
+.contact-layout .contact-form{border:.0625rem solid var(--line);background:var(--white);padding:clamp(1.25rem,3vw,2.5rem)}
+.contact-side h2{font-size:clamp(1.75rem,3.5vw,2.75rem);letter-spacing:-.04em;line-height:1.05;margin:0 0 1rem}
+.contact-side p{color:var(--muted)}
+.contact-side .muted{font-size:.8125rem}
+@media(max-width:50rem){.quote-layout,.contact-layout,.quote-item{grid-template-columns:1fr}.quote-item-image{width:100%;height:16rem}.quote-remove{justify-self:start}}
+@media(max-width:28.75rem){.quote-item-image{height:11rem}}
+.notes-grid article{border-top:.25rem solid var(--orange);padding-top:1.25rem}
+.hero-image{height:auto}
+/* On a white plate the blend is a no-op, and the 1rem inset that used to hide
+   sage showing through now only wastes area around the product. */
+.hero-image img,.feature-media img,.detail-image img{mix-blend-mode:normal}
+.product-image img{mix-blend-mode:normal;padding:.5rem}
+/* the hero image was 594px tall and set the height of the whole hero, so the
+   first thing below the fold was pushed right off screen. Cap it. */
+.hero-visual{display:flex;align-items:center;justify-content:center}
+.hero-image img{max-height:24rem;width:auto;max-width:100%}
+@media(max-width:50rem){.brand img{width:clamp(10rem,38vw,13.5rem)}.about-location,.notes-grid{grid-template-columns:1fr}}
+@media(max-width:28.75rem){.brand img{width:min(10.5rem,62vw)}}
+.service-blocks{display:grid;gap:clamp(3rem,7vw,6rem);padding-bottom:clamp(4rem,8vw,7rem)}
+.service-block{display:grid;grid-template-columns:1fr 1fr;gap:clamp(2rem,6vw,5rem);align-items:center}
+.service-block:nth-child(even) .service-media{order:2}
+.service-media img{width:100%;height:clamp(18rem,38vw,32rem);object-fit:cover}
+.service-copy h2{font-size:clamp(1.75rem,3.5vw,2.75rem);letter-spacing:-.04em;line-height:1.05;margin:.5rem 0 1rem}
+.service-copy p:not(.eyebrow){color:var(--muted)}
+.service-copy ul{padding-left:1.25rem;color:var(--muted)}
+.service-copy li{margin:.35rem 0}
+.service-block--wide{grid-template-columns:1fr}
+.service-block--wide .service-copy{max-width:52rem}
+.nav-item{position:relative;display:flex;align-items:center}
+.nav-item>a{display:inline-flex;align-items:center;gap:.375rem}
+.nav-item>a::after{content:"\25BE";font-size:.5625rem;line-height:1}
+.site-nav .nav-item>a:hover{color:var(--orange-dark)}
+.nav-menu{position:absolute;top:calc(100% + 1rem);left:-1rem;min-width:13rem;background:var(--white);border-top:.25rem solid var(--orange);box-shadow:var(--shadow);padding:.375rem 0;display:none;z-index:5}
+.nav-menu::before{content:"";position:absolute;left:0;right:0;top:-1rem;height:1rem}
+.nav-item:hover .nav-menu,.nav-item:focus-within .nav-menu{display:block}
+.nav-menu a{display:block;padding:.625rem 1.125rem;font-size:.8125rem;color:var(--ink)}
+.nav-menu a:hover{color:var(--orange)}
+@media(max-width:50rem){.service-block{grid-template-columns:1fr}.service-block:nth-child(even) .service-media{order:0}.nav-item{position:static;display:block}.nav-item>a{display:block}.nav-item>a::after{display:none}.nav-menu{position:static;top:auto;left:auto;min-width:0;box-shadow:none;border-top:0;padding:.25rem 0 .5rem 1.125rem}}
+.ot-tags{display:flex;flex-wrap:wrap;gap:.625rem;margin-top:1.25rem}
+.ot-chip{border:.0625rem solid var(--line);background:var(--white);color:var(--ink);font:600 .8125rem 'DM Mono',monospace;text-transform:uppercase;letter-spacing:.04em;padding:.5rem .9375rem;cursor:pointer;border-radius:999px}
+.ot-chip:hover{border-color:var(--orange-dark);color:var(--orange-dark)}
+.note-hero{margin:1.5rem 0 0;max-width:30rem}
+.note-hero img{width:100%;height:auto;border:.0625rem solid var(--line);display:block}
+.note-tag{border:0;background:none;padding:0;font:inherit;cursor:pointer}
+.note-tag:hover{text-decoration:underline}
+.note-cards .note-card .note-tag.is-active,.note-card .note-tag.is-active{color:var(--orange)}

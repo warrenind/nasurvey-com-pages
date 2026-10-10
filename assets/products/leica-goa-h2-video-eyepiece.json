@@ -1,0 +1,39 @@
+{
+  "model": "96-8542-GOA-H2",
+  "brand": "Leica Geosystems",
+  "category": "Video Camera Systems & Eyepieces",
+  "summary": "A specialized video eyepiece for inspection, alignment, and documentation work.",
+  "specs": [
+    "Leica-compatible optical tooling",
+    "Digital video output",
+    "Serial-specific availability"
+  ],
+  "condition": "Used",
+  "availability": "Ask for availability",
+  "accessories": [
+    "Optical camera adapter kit",
+    "Mounting adapters"
+  ],
+  "images": [
+    "leica-goa-h2-video-eyepiece-001.jpg",
+    "leica-goa-h2-video-eyepiece-002.jpg",
+    "leica-goa-h2-video-eyepiece-003.jpg",
+    "leica-goa-h2-video-eyepiece-004.jpg",
+    "leica-goa-h2-video-eyepiece-005.jpg",
+    "leica-goa-h2-video-eyepiece-006.jpg",
+    "leica-goa-h2-video-eyepiece-007.jpg",
+    "leica-goa-h2-video-eyepiece-008.jpg",
+    "leica-goa-h2-video-eyepiece-009.jpg",
+    "leica-goa-h2-video-eyepiece-010.jpg",
+    "leica-goa-h2-video-eyepiece-011.jpg",
+    "leica-goa-h2-video-eyepiece-012.jpg",
+    "leica-goa-h2-video-eyepiece.jpg"
+  ],
+  "categories": [
+    "Video Camera Systems & Eyepieces",
+    "Optical tooling"
+  ],
+  "status": "available",
+  "id": "leica-goa-h2-video-eyepiece",
+  "title": "Leica GOA-H2 Video Eyepiece"
+}

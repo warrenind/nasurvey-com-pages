@@ -1,0 +1,32 @@
+{
+  "model": "58-1363",
+  "brand": "Warren-Knight",
+  "category": "Lateral slides",
+  "summary": "Fine lateral adjustment hardware for precision alignment setups.",
+  "specs": [
+    "Precision tooling component",
+    "Lateral adjustment",
+    "Mounting configuration varies"
+  ],
+  "condition": "Used",
+  "availability": "Ask for availability",
+  "accessories": [
+    "Dual slide",
+    "Mounting adapters"
+  ],
+  "images": [
+    "lateral-slide-001.jpg",
+    "lateral-slide-002.jpg",
+    "lateral-slide-003.jpg",
+    "lateral-slide-004.jpg",
+    "lateral-slide-005.jpg",
+    "lateral-slide.jpg"
+  ],
+  "categories": [
+    "Lateral slides",
+    "Optical tooling"
+  ],
+  "status": "available",
+  "id": "lateral-slide",
+  "title": "Lateral Slide"
+}

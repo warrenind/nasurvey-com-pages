@@ -1,0 +1,31 @@
+{
+  "model": "Leica T3000",
+  "brand": "Leica Geosystems",
+  "category": "Video Camera Systems & Eyepieces",
+  "summary": "Video eyepiece for bringing a Leica T3000 optical view into a digital workflow.",
+  "specs": [
+    "Leica T3000 family",
+    "Video eyepiece",
+    "Confirm interface before quote"
+  ],
+  "condition": "Used",
+  "availability": "Ask for availability",
+  "accessories": [
+    "Instrument camera system",
+    "Optical camera adapter kit"
+  ],
+  "images": [
+    "leica-t3000-video-eyepiece-001.jpg",
+    "leica-t3000-video-eyepiece-002.jpg",
+    "leica-t3000-video-eyepiece-003.jpg",
+    "leica-t3000-video-eyepiece-004.jpg",
+    "leica-t3000-video-eyepiece.jpg"
+  ],
+  "categories": [
+    "Video Camera Systems & Eyepieces",
+    "Optical tooling"
+  ],
+  "status": "available",
+  "id": "leica-t3000-video-eyepiece",
+  "title": "Leica T3000 Video Eyepiece"
+}

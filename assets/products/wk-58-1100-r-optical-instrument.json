@@ -1,0 +1,32 @@
+{
+  "model": "58-1100-R",
+  "brand": "Warren-Knight",
+  "category": "Optical instruments",
+  "summary": "Warren-Knight optical instrument from the NASS precision tooling archive.",
+  "specs": [
+    "Warren-Knight model",
+    "Optical alignment use",
+    "Condition verified per unit"
+  ],
+  "condition": "Used",
+  "availability": "Ask for availability",
+  "accessories": [
+    "Mounting adapters",
+    "Optical mounts"
+  ],
+  "images": [
+    "wk-58-1100-r-optical-instrument-003.jpg",
+    "wk-58-1100-r-optical-instrument-004.jpg",
+    "wk-58-1100-r-optical-instrument-005.jpg",
+    "wk-58-1100-r-optical-instrument-006.jpg",
+    "wk-58-1100-r-optical-instrument-007.jpg",
+    "wk-58-1100-r-optical-instrument.jpg"
+  ],
+  "categories": [
+    "Optical instruments",
+    "Optical tooling"
+  ],
+  "status": "available",
+  "id": "wk-58-1100-r-optical-instrument",
+  "title": "WK-58-1100-R Optical Instrument"
+}

@@ -1,0 +1,38 @@
+{
+  "model": "Leica drilling theodolite",
+  "brand": "Leica Geosystems",
+  "category": "Theodolites",
+  "summary": "Leica theodolite equipment for drilling and alignment work.",
+  "specs": [
+    "Leica optical instrument",
+    "Drilling alignment use",
+    "Condition verified per unit"
+  ],
+  "condition": "Used",
+  "availability": "Ask for availability",
+  "accessories": [
+    "Tripods",
+    "Theodolite accessories"
+  ],
+  "images": [
+    "leica-drilling-theodolite-001.jpg",
+    "leica-drilling-theodolite-002.jpg",
+    "leica-drilling-theodolite-003.jpg",
+    "leica-drilling-theodolite-004.jpg",
+    "leica-drilling-theodolite-005.jpg",
+    "leica-drilling-theodolite-006.jpg",
+    "leica-drilling-theodolite-007.jpg",
+    "leica-drilling-theodolite-008.jpg",
+    "leica-drilling-theodolite-009.jpg",
+    "leica-drilling-theodolite-010.jpg",
+    "leica-drilling-theodolite-011.jpg",
+    "leica-drilling-theodolite-013.jpg",
+    "leica-drilling-theodolite.jpg"
+  ],
+  "categories": [
+    "Theodolites"
+  ],
+  "status": "available",
+  "id": "leica-drilling-theodolite",
+  "title": "Leica Drilling Theodolite"
+}

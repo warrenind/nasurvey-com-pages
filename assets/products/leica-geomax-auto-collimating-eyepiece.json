@@ -1,0 +1,30 @@
+{
+  "model": "Leica Geomax",
+  "brand": "Leica Geosystems",
+  "category": "Auto-collimating eyepieces",
+  "summary": "Leica Geomax optical accessory for precision sighting and alignment.",
+  "specs": [
+    "Leica Geomax family",
+    "Auto-collimating optical system",
+    "Serial-specific availability"
+  ],
+  "condition": "Used",
+  "availability": "Ask for availability",
+  "accessories": [
+    "Optical camera adapter kit",
+    "Mounting adapters"
+  ],
+  "images": [
+    "leica-geomax-auto-collimating-eyepiece-004.jpg",
+    "leica-geomax-auto-collimating-eyepiece-005.jpg",
+    "leica-geomax-auto-collimating-eyepiece-006.jpg",
+    "leica-geomax-auto-collimating-eyepiece.jpg"
+  ],
+  "categories": [
+    "Auto-collimating eyepieces",
+    "Optical tooling"
+  ],
+  "status": "available",
+  "id": "leica-geomax-auto-collimating-eyepiece",
+  "title": "Leica Geomax Auto-Collimating Eyepiece"
+}
