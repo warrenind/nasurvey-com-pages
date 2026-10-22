@@ -1,0 +1,56 @@
+{
+  "title": "Leica FlexLine TS07 Manual Total Station",
+  "model": "TS07",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Total stations",
+  "categories": [
+    "Total stations",
+    "Construction total stations",
+    "Manual total stations"
+  ],
+  "summary": "The FlexLine TS07 is the step up from the TS03: the same Leica FlexField workflow, but with a colour touch display, Bluetooth and WLAN, an optional guide light, and optional AutoHeight that measures, reads and sets the instrument height for you.\n\nAngular accuracy is available in 1, 2, 3, 5 and 7 second versions, with prism range to 3,500 m and non-prism measurement to 500 m as standard, plus an optional R1000 module for long non-prism work. AutoHeight is accurate to 1.0 mm over 0.7 to 2.7 m.\n\nSetup gets faster and errors go down with it. AutoHeight removes the tape measure and the wrong instrument height, and the optional guide light walks the operator onto the point. LOC8 tracking and theft deterrence is available as an option, and the instrument carries the same IP66 and Military Standard 810G build as the rest of the FlexLine range.",
+  "specs": [
+    "Angular accuracy 1, 2, 3, 5 and 7 seconds (absolute, continuous, diametrical), display resolution 0.1 seconds",
+    "Prism range (GPR1, GPH1P) 0.9 m to 3,500 m; GPR1 long range mode over 10,000 m",
+    "Non-prism over any surface to 500 m standard (R500), R1000 over 1,000 m optional",
+    "Single prism 1 mm + 1.5 ppm, typically 2.4 s; tracking 3 mm + 1.5 ppm, typically under 0.15 s",
+    "AutoHeight automatic instrument height, 1.0 mm accuracy (1 sigma) over 0.7 to 2.7 m (optional)",
+    "Guide light EGL 5 to 150 m, position accuracy 5 cm at 100 m",
+    "3.5-inch QVGA colour touch display, 28 keys with illumination, optional second keyboard",
+    "Bluetooth and WLAN, optional LTE modem sidecover; 4 GB internal memory, SD card and USB memory stick",
+    "Operating time up to 32 h with the GEB364 battery, up to 16 h with the GEB334 battery",
+    "IP66, -20 to +50 degrees C, Military Standard 810G, 4.3 to 4.5 kg",
+    "LOC8 tracking and theft deterrence device available as an option",
+    "Leica FlexField software onboard"
+  ],
+  "accessories": [
+    "AutoHeight module for automatic instrument height",
+    "R1000 non-prism module",
+    "Prism pole with prism and holder",
+    "Tribrach and 5/8-inch adapter",
+    "GEB364 battery and charger",
+    "LOC8 tracking and theft deterrence kit",
+    "Carry case"
+  ],
+  "related": [
+    "leica-ts13"
+  ],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-ts07",
+  "images": [
+    "leica-ts07-003.jpg",
+    "leica-ts07-004.jpg",
+    "leica-ts07-005.jpg"
+  ]
+}

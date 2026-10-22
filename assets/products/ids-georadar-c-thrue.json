@@ -1,0 +1,47 @@
+{
+  "title": "IDS GeoRadar C-Thrue Concrete Scanner",
+  "model": "C-Thrue",
+  "brand": "IDS GeoRadar",
+  "brands": [
+    "IDS GeoRadar",
+    "Hexagon"
+  ],
+  "category": "Ground penetrating radar",
+  "categories": [
+    "Ground penetrating radar",
+    "Non-destructive testing",
+    "Concrete inspection"
+  ],
+  "summary": "C-Thrue is a portable 2 GHz ground-penetrating radar built for non-destructive inspection of concrete. It reads rebar, post-tension tendons, and voids without drilling, and it shows the result as you scan: real-time B-Scan and C-Scan radar tomography on a 7-inch multi-touch screen.\n\nFour antennas with both horizontal and vertical polarisation give a wide, clutter-tolerant sweep, and the integrated 50/60 Hz sensor flags live power conduits as you pass over them. VirtualPad positioning records where every scan line went, so coverage is traceable on site rather than assumed, and an optional 10.1-inch external controller or 1.8 m telescopic pole adds navigation and augmented-reality results.\n\nIt is the instrument for concrete contractors, structural engineers, and QA crews who need to know what is inside a slab, wall, or bridge deck before they cut, drill, or pour.",
+  "specs": [
+    "2 GHz sensor with 4 antennas, horizontal and vertical polarisation, 2 radar channels",
+    "Scan interval up to 10 scans/cm; scan depth up to 100 cm (39.4 in)",
+    "Integrated 50/60 Hz EM sensor for live power and conduit detection",
+    "7-inch TFT multi-touch display with real-time B-Scan and C-Scan radar tomography",
+    "VirtualPad positioning system; optional 10.1-inch external controller and 1.8 m pole",
+    "15 V / 3.2 Ah Li-ion, about 3 h runtime, 32 GB storage, USB and Wi-Fi",
+    "IP65, MIL-STD-810G drop resistant, 285 x 200 x 160 mm, 2.4 kg with battery"
+  ],
+  "accessories": [
+    "10.1-inch external controller (4G LTE, Wi-Fi, IP65)",
+    "1.8 m telescopic pole",
+    "Rechargeable Li-ion battery pack"
+  ],
+  "related": [],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "ids-georadar-c-thrue",
+  "images": [
+    "ids-georadar-c-thrue-001.jpg",
+    "ids-georadar-c-thrue-002.jpg",
+    "ids-georadar-c-thrue-003.jpg",
+    "ids-georadar-c-thrue-004.jpg"
+  ]
+}

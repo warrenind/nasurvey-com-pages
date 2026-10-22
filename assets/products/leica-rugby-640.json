@@ -1,0 +1,42 @@
+{
+  "title": "Leica Rugby 640 Multipurpose Rotating Laser",
+  "model": "Rugby 640",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Lasers",
+  "categories": [
+    "Lasers",
+    "Rotating lasers",
+    "Construction lasers"
+  ],
+  "summary": "The Rugby 640 is the multipurpose member of the 600 series: horizontal, vertical, and 90 degrees, with manual slope in two axes, scanning modes, and the RC400 remote control. It works inside and outside, in formwork, on pads, and on suspended ceilings.\n\nAccuracy is +/- 2.2 mm at 30 m, the working diameter reaches 500 m with a Rod Eye 120 and 600 m with the Rod Eye 140 or 160, and the RC400 remote reaches 200 m. Up to 80 hours on Li-ion and IP67 for the site.\n\nThe 640G variant swaps the red laser for a 520 nm green beam, which is far easier to see indoors against bright finishes and long-distance haze.",
+  "specs": [
+    "Accuracy +/- 2.2 mm at 30 m",
+    "635 nm red laser Class 2 (640) or 520 nm green laser Class 1 (640G)",
+    "Rotation 0, 2, 5 and 10 rps with 10, 45 and 90 degree scanning; plumb up and down",
+    "Manual slope in two axes",
+    "Maximum working diameter 500 m with Rod Eye 120 / 120G and 600 m with Rod Eye 140 / 160; RC400 remote control 200 m",
+    "Up to 80 h (640) and 70 h (640G) on Li-ion; IP67; operating -20 to +50 degrees C"
+  ],
+  "accessories": [
+    "Rod Eye 120 / 120G receiver",
+    "Rod Eye 140 / 160 receiver",
+    "RC400 remote control",
+    "Wall mount and carry case"
+  ],
+  "related": [],
+  "condition": "",
+  "conditions": [],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-rugby-640",
+  "images": [
+    "leica-rugby-640-001.png",
+    "leica-rugby-640-002.jpg"
+  ]
+}

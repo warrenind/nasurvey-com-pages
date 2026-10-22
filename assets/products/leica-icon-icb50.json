@@ -1,0 +1,45 @@
+{
+  "title": "Leica iCON iCB50 Manual Construction Total Station",
+  "model": "iCB50",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Total stations",
+  "categories": [
+    "Total stations",
+    "Construction total stations",
+    "Manual total stations"
+  ],
+  "summary": "The iCB50 is the entry point into the iCON family: a manual construction total station with one-key operation and the iCON build field software inside. It is the straightforward upgrade from tape and chalk, aimed at crews that need a total station to set out and check work rather than to run a long survey.\n\nTwo-second accuracy, 3,500 m to a prism, and a colour touch display with iCON build keep the job moving: set out points from a drawing, check as-built against design, and log what you find without a separate data collector.\n\nFor layout of walls, columns, and foundations, formwork checks, interior fit-out, and everyday site measurement, it covers the work without the complexity of a robotic setup.",
+  "specs": [
+    "Angular accuracy 2 and 5 seconds (horizontal and vertical), 1-second display resolution",
+    "Prism range 1.5-3,500 m; single prism 1 mm + 1.5 ppm, typically 2.4 s; continuous 3 mm + 1.5 ppm",
+    "Non-prism 0-500 m at 2 mm + 2 ppm, typically 3-6 s",
+    "30x telescope, 3-second resolving power, focus 1.55 m to infinity",
+    "5-inch WVGA colour touch display with 22 keys, running iCON build",
+    "Compensator setting 0.5 and 1.5 seconds, working range +/- 4 minutes",
+    "GEB361 battery up to 18 h; 4.5 kg; IP66, operating -20 to +50 degrees C",
+    "Laser plummet 1.5 mm at 1.5 m"
+  ],
+  "accessories": [
+    "Tribrach and 5/8-inch adapter",
+    "Prism pole with prism and holder",
+    "Field controller",
+    "Battery charger and spare battery"
+  ],
+  "related": [],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-icon-icb50",
+  "images": [
+    "leica-icon-icb50-001.jpg"
+  ]
+}

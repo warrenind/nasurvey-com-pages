@@ -1,0 +1,64 @@
+{
+  "title": "Leica CSX8 Rugged Android Tablet",
+  "model": "CSX8",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Data collectors & tablets",
+  "categories": [
+    "Data collectors & tablets",
+    "Field controllers",
+    "GIS data collection",
+    "GPS"
+  ],
+  "summary": "The CSX8 is the tablet at the centre of the Leica X-PAD workflow: a rugged 8-inch Android 12 tablet built to run X-PAD and drive a GNSS receiver or a total station through a full day of survey work.\n\nIt is built for the job site rather than the office. The 8-inch WUXGA screen is sunlight readable at 500 nits under Corning Gorilla Glass 5, and fourteen physical buttons, six of them user-programmable, keep the software one tap away instead of buried in menus. It takes a 1.5 metre drop onto marble, is rated IP66 and IP68, and works from -20 to +60 degrees C.\n\nIt stays connected and stays powered. Dual-frequency GNSS is built in, along with 5G and LTE, Wi-Fi, Bluetooth 5.1, USB-A and USB-C. A 32 megapixel rear camera with dual flash and an 8 megapixel front camera cover the imaging and video work, and the exchangeable 8200 mAh battery carries a full day, with up to 15 hours of operation. At 730 g and 19.5 mm thick it is a tablet you can hold on a pole or carry in the same bag as the instrument.\n\nBecause it runs X-PAD, one interface and one data format carry across the instrument you are holding. A GS11 GNSS smart antenna, a GS05, a TS13 robotic total station: the same workflows, the same HeXML data, the same office companion in X-PAD Fusion.",
+  "specs": [
+    "Operating system: Android 12 with Google Mobile Services",
+    "Processor: Qualcomm SM4350AC octa-core 2.2 GHz, 8 GB LPDDR4x RAM, 256 GB UFS 2.2 storage",
+    "Display: 8-inch widescreen WUXGA 1920 x 1200, 500 nits, sunlight readable, Corning Gorilla Glass 5, 10-finger multitouch and USI 2.0 active stylus support",
+    "Keyboard and buttons: 14 physical buttons, dedicated touchscreen lock button, six user and software definable function keys",
+    "GNSS: dual-frequency receiver supporting BeiDou, Galileo, GLONASS, NavIC, GPS and QZSS",
+    "Camera: 32 MP autofocus rear camera with dual flash, 8 MP fixed focus front camera",
+    "Sensors: gyroscope, compass and accelerometer",
+    "Connectivity: 5G FR1, LTE, WCDMA, Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.1",
+    "Ports: USB 2.0 Type-A (OTG), USB 3.2 Type-C (OTG), microSD card slot",
+    "Power: replaceable 8200 mAh Li-Ion battery, up to 15 hours operating time",
+    "Size: 250 x 156 x 19.5 mm, 730 g with battery",
+    "Environmental: IP66 and IP68, 1.5 m drop resistant on marble (IEC 60068-2-31), operating -20 to +60 degrees C, storage -40 to +70 degrees C, MIL-STD-810H"
+  ],
+  "accessories": [
+    "Leica X-PAD field software, installed on the tablet",
+    "Leica X-PAD Fusion office software",
+    "Leica GS11 or GS05 GNSS smart antenna",
+    "GeoMax Zenith 60 GNSS smart antenna, supported by X-PAD",
+    "Leica TS13 robotic total station, for a hybrid GNSS and total station setup where the total station tracks a prism on the antenna",
+    "Spare 8200 mAh Li-Ion battery with USB-C charging cable and power adapter",
+    "SIM card for LTE data transfer",
+    "Hand strap and quick guide"
+  ],
+  "related": [
+    "geomax-zenith60",
+    "leica-gs05",
+    "leica-gs11",
+    "leica-ts13",
+    "leica-x-pad"
+  ],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-csx8",
+  "images": [
+    "leica-csx8-002.jpg",
+    "leica-csx8-003.jpg",
+    "leica-csx8-004.jpg",
+    "leica-csx8-001.jpg",
+    "leica-csx8-005.jpg"
+  ]
+}

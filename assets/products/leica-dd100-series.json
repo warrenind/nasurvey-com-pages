@@ -1,0 +1,48 @@
+{
+  "title": "Leica DD100 Series Utility Locator",
+  "model": "DD120 / DD130 / DD175",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Utility locators",
+  "categories": [
+    "Utility locators",
+    "Pipe and cable locators"
+  ],
+  "summary": "The DD100 Series is Leica's underground utility locator family for tracing buried services before you dig. Three models cover the range: the DD120 is the basic line and sonde locator, the DD130 adds depth and current measurement, and the DD175 adds data logging, Bluetooth, and internal GPS so site scans can be recorded and documented.\n\nAll three trace power and radio signals and depth every target. Sonde work covers the deeper range, so a pushed sonde can be followed from the surface; a conductive rod picks up non-metallic pipe and cable over the standard 50 m rod. The DD175 writes what it finds to internal memory and tags it to a position.\n\nIt is the tool for utility locators, excavation contractors, and site managers who need to know exactly what is under the dig before the dig starts.",
+  "specs": [
+    "Locator modes: Power 50/60 Hz, Radio 15-60 kHz, Auto, plus 33 kHz, 8 kHz, 512 Hz and 640 Hz on the DD130 and DD175",
+    "Depth range: line 0.3-3 m on all models; sonde 0.3-3 m on the DD120, 0.1-9.99 m on the DD130 and DD175",
+    "Depth accuracy 10%",
+    "6 x LR6 (AA) alkaline batteries, about 15 h typical operation at 20 degrees C",
+    "85 x 250 x 760 mm, 2.7 kg with batteries, IP54, operating -20 to +50 degrees C",
+    "DD175 only: 64 MB internal storage, data logging, Bluetooth, internal GPS"
+  ],
+  "accessories": [
+    "DA100 / DA175 signal transmitter with induction and connection modes",
+    "Sonde and sonde reel",
+    "Conductive rod, 50 m standard, 80 m maximum reel",
+    "Clip-on 512/640 Hz transmitter for plastic pipes and cables",
+    "Carry bag"
+  ],
+  "related": [],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-dd100-series",
+  "images": [
+    "leica-dd100-series-001.jpg",
+    "leica-dd100-series-002.jpg",
+    "leica-dd100-series-003.jpg",
+    "leica-dd100-series-004.jpg",
+    "leica-dd100-series-005.jpg",
+    "leica-dd100-series-006.jpg"
+  ]
+}

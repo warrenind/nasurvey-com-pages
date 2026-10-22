@@ -1,0 +1,61 @@
+{
+  "title": "Leica GS05 GNSS Smart Antenna",
+  "model": "GS05",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "GPS",
+  "categories": [
+    "GPS",
+    "GNSS receivers",
+    "Smart antennas",
+    "Tilt compensation"
+  ],
+  "summary": "The GS05 is the lightweight GNSS smart antenna: 0.75 kg on the pole, small enough to fit in the palm of your hand. It carries 4G, UHF radio, tilt compensation and an IP-rated shell, which is a lot of instrument for something that barely registers on the pole.\n\nTilt compensation is calibration-free and immune to magnetic disturbances, so there is no bubble to level and no drift around steel and machinery. 184 channels, 10 mm + 1 ppm RTK on a single baseline, and RTK initialisation typically in 6 seconds.\n\nIt runs Leica Captivate on a CS20, CS30, CC180 or CC200 controller, works with Leica Infinity and GeoCloud Drive, and can even be combined with total station operation as a SmartPole. The GS05 is also a named sensor in the Leica X-PAD portfolio, so a crew already running X-PAD keeps one interface and one data format across GNSS and total station.",
+  "specs": [
+    "184 channels, multi-frequency multi-constellation: GPS, GLONASS, Galileo, BeiDou, QZSS, SBAS",
+    "RTK single baseline: H 10 mm + 1 ppm / V 20 mm + 1 ppm; network RTK H 10 mm + 0.5 ppm / V 20 mm + 0.5 ppm",
+    "Tilt-compensated RTK: additional H uncertainty under 1.5 cm down to 30 degrees tilt, calibration-free and magnetically resistant",
+    "Static with long observations: H 3 mm + 0.5 ppm / V 6 mm + 0.5 ppm; static and rapid static H 5 mm + 0.5 ppm / V 10 mm + 0.5 ppm",
+    "RTK initialisation typically 6 s",
+    "Built-in 4G LTE modem and UHF radio 413-473 MHz on the matching variants",
+    "Internal Li-Ion 6.0 Ah / 3.6 V, typical operating time up to 10 h",
+    "0.75 kg (2.82 kg standard RTK rover setup on pole); 118.9 x 118.9 x 75.5 mm",
+    "IP66 / IP68, -30 to +55 degrees C on internal power, -40 to +65 on external power",
+    "Data recording: Leica GNSS raw data and RINEX at up to 10 Hz, up to 4 GB internal memory"
+  ],
+  "accessories": [
+    "Leica CS20, CS30, CC180 or CC200 field controller",
+    "Leica CSX8 controller tablet with Leica X-PAD",
+    "Leica TS13 robotic total station for a hybrid GNSS and total station setup: the total station tracks a prism on the antenna",
+    "Survey pole and pole holder",
+    "Tribrach with 5/8-inch thread",
+    "Battery and USB-C charging cable"
+  ],
+  "related": [
+    "leica-x-pad",
+    "leica-csx8",
+    "leica-gs11",
+    "leica-ts13"
+  ],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-gs05",
+  "images": [
+    "leica-gs05-001.jpg",
+    "leica-gs05-002.jpg",
+    "leica-gs05-003.jpg",
+    "leica-gs05-004.jpg",
+    "leica-gs05-005.jpg",
+    "leica-gs05-006.jpg",
+    "leica-portfolio-gs05-gs11-ts13.jpg"
+  ]
+}

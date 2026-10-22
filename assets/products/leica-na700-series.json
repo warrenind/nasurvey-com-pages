@@ -1,0 +1,43 @@
+{
+  "title": "Leica NA700 Series Automatic Levels",
+  "model": "NA700 series",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Levels and transits",
+  "categories": [
+    "Levels and transits",
+    "Automatic levels"
+  ],
+  "summary": "The NA700 Series are the engineering-grade automatic levels: nitrogen-filled telescopes and IP57 immersion protection, from the general-purpose NA720 and NA724 through to the NA730 plus at 0.7 mm per kilometre.\n\nPer-kilometre double-levelling accuracy runs 2.5, 2.0, 1.5, 1.2, and 0.7 mm across the NA720, NA724, NA728, NA730, and NA730 plus. The telescopes reach 20x to 30x magnification, and the compensating level is set to under 0.3 seconds on the 728 and above.\n\nThey are built for precision control, long-baseline height transfer, and staff-based grade checking, and they survive being dropped and rained on.",
+  "specs": [
+    "Standard deviation per km double levelling (ISO 17123-2): 2.5, 2.0, 1.5, 1.2 and 0.7 mm",
+    "Single measurement accuracy at 30 m: 1.5, 1.2, 1.0, 0.8 and 0.4 mm",
+    "Magnification 20x, 24x, 28x, 30x and 30x; objective 30, 36, 40, 40 and 40 mm",
+    "Shortest target 0.5 m (NA720, NA724), 0.7 m (NA728 and above)",
+    "Compensator setting accuracy under 0.5 seconds (NA720, NA724), under 0.3 seconds (NA728, NA730, NA730 plus); tilt area +/- 15 minutes",
+    "Circular level 10/2 mm; 360 degree / 400 gon circle; multiplication factor 100, additive constant 0",
+    "IP57 submersible, ISO 9022-33-5 drop resistant, operating -20 to +50 degrees C",
+    "1.6-1.7 kg"
+  ],
+  "accessories": [
+    "Dioptra and micrometer",
+    "Invar precision staff",
+    "Aluminium staff and tripod",
+    "Carry case"
+  ],
+  "related": [],
+  "condition": "",
+  "conditions": [],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-na700-series",
+  "images": [
+    "leica-na700-series-001.png",
+    "leica-na700-series-002.jpg"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Leica GS18 I Visual GNSS Smart Antenna",
+  "model": "GS18 I",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "GPS",
+  "categories": [
+    "GPS",
+    "GNSS receivers",
+    "Smart antennas",
+    "Visual positioning"
+  ],
+  "summary": "The GS18 I is a GNSS smart antenna with Visual Positioning: GNSS, an IMU, and a global-shutter camera in one instrument. Instead of walking the pole to a point you cannot reach, the surveyor measures the point from the imagery and the software solves the position.\n\nIt matters where a pole will not go. A roof edge, the far side of a road, a point behind a gate, a corner of a building: measure from the image and carry on. Leica quotes image points at typically 2-4 cm in 2D from 2-10 m, which is well inside survey tolerance for detail and as-built work, and image groups can be processed later in Leica Infinity.\n\nThe rest of the instrument is a serious RTK rover: 555 channels, 8 mm + 1 ppm RTK on a single baseline, tilt compensation, and a 4G LTE modem so it works on a correction service as well as a local base.",
+  "specs": [
+    "555 channels, multi-constellation multi-frequency tracking",
+    "RTK single baseline: H 8 mm + 1 ppm / V 15 mm + 1 ppm; network RTK H 8 mm + 0.5 ppm / V 15 mm + 0.5 ppm",
+    "Tilt-compensated RTK: additional H uncertainty under 2 mm + 0.3 mm/degree down to 30 degrees tilt",
+    "Static long observations: H 3 mm + 0.1 ppm / V 3.5 mm + 0.4 ppm",
+    "1.2 MP global-shutter camera, 80 degrees H x 60 degrees V, 20 Hz video; image groups captured at 2 Hz up to 60 s per group",
+    "Image point measurement typically 2-4 cm (2D) at 2-10 m",
+    "RTK initialisation typically 4 s",
+    "1.25 kg, 173 x 173 x 109 mm; Li-ion 2.8 Ah / 11.1 V, up to 8 h",
+    "IP66 with camera / IP68, operating -30 to +50 degrees C"
+  ],
+  "accessories": [
+    "Leica TS13 robotic total station for a hybrid GNSS and total station setup: the total station tracks a prism on the antenna",
+    "Survey pole and pole holder",
+    "Tribrach with 5/8-inch thread",
+    "Battery charger and spare Li-ion battery",
+    "Field controller for capture and export"
+  ],
+  "related": [],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "draft",
+  "id": "leica-gs18-i",
+  "images": [
+    "leica-gs18-i-001.jpg",
+    "leica-gs18-i-002.png",
+    "leica-gs18-i-003.jpg",
+    "leica-gs18-i-004.jpg",
+    "leica-gs18-i-005.jpg",
+    "leica-gs18-i-006.jpg"
+  ]
+}

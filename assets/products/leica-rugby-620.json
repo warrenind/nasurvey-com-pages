@@ -1,0 +1,44 @@
+{
+  "title": "Leica Rugby 620 Grade Laser",
+  "model": "Rugby 620",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Lasers",
+  "categories": [
+    "Lasers",
+    "Rotating lasers",
+    "Construction lasers"
+  ],
+  "summary": "The Rugby 620 adds manual slope in a single axis to the horizontal self-levelling of the Rugby 610, which is what drainage, ramps, driveways, and sloped formwork need.\n\nAccuracy holds at +/- 2.2 mm at 30 m, self-levelling covers +/- 5 degrees, and the slope is set manually in one axis rather than dialled in like the 680. Rod Eye 120 and 140 receivers give a working diameter of 800 m and 1,100 m, and the battery runs up to 120 hours on Li-ion. IP67.\n\nIt is the choice when the work has a fall in it but the grade is set by hand rather than by machine.",
+  "specs": [
+    "Accuracy +/- 2.2 mm at 30 m (+/- 3/32 inch at 100 ft)",
+    "Self-levelling range +/- 5 degrees with manual slope in one axis",
+    "635 nm red laser, Class 1, 10 rps rotation",
+    "Maximum working diameter 800 m with Rod Eye 120 / 120G; 1,100 m with Rod Eye 140 / 160",
+    "Up to 120 h on Li-ion, 60 h on alkaline",
+    "IP67; operating -20 to +50 degrees C"
+  ],
+  "accessories": [
+    "Rod Eye 120 / 120G receiver",
+    "Rod Eye 140 / 160 receiver",
+    "Wall mount and carry case"
+  ],
+  "related": [],
+  "condition": "",
+  "conditions": [],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-rugby-620",
+  "images": [
+    "leica-rugby-620-001.png",
+    "leica-rugby-620-002.jpg",
+    "leica-rugby-620-003.jpg",
+    "leica-rugby-620-004.jpg",
+    "leica-rugby-620-005.jpg"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Leica iCON iCT30 Construction Layout Tool",
+  "model": "iCT30",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Total stations",
+  "categories": [
+    "Total stations",
+    "Construction total stations",
+    "Layout tools"
+  ],
+  "summary": "The iCT30 is a motorised one-person construction layout tool built for MEP and HVAC work, interior set-out, and anywhere the layout tool has to find its prism in a cluttered building. ATR automatic aiming locks onto the target, AutoSearch finds it when the crew does not know where it is, and the EGL guide light walks the operator onto the point.\n\nIt works directly from fully rendered IFC models through iCON build, so layout comes off the model rather than off a printed sheet. Range to prism or non-prism is 1.5-80 m with 1 mm on a prism and 2 mm on any surface, and the whole instrument runs a shift on one battery.\n\nThe result is one person laying out a floor without a second person calling coordinates over the noise.",
+  "specs": [
+    "Angular accuracy 9 seconds (2.7 mgon)",
+    "Range 1.5-80 m to prism and 1.5-80 m non-prism; single prism 1 mm, typically 2.4 s; single any surface 2 mm, typically 3 s",
+    "ATR automatic aiming and locking to 80 m, angle accuracy 9 seconds, typically 3-4 s",
+    "AutoSearch prism search to 80 m, typically 15 s",
+    "EGL guide light 5-80 m, typically 2 cm at 40 m",
+    "Laser dot 8 x 20 mm at 50 m",
+    "5.0 kg with battery; Li-ion 8-10 h; IP55, operating -20 to +50 degrees C",
+    "4-button keyboard with status LEDs"
+  ],
+  "accessories": [
+    "Prism pole and target for ATR and AutoSearch",
+    "Field controller",
+    "Tribrach and carry case",
+    "Battery charger and spare battery"
+  ],
+  "related": [],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-icon-ict30",
+  "images": [
+    "leica-icon-ict30-001.jpg"
+  ]
+}

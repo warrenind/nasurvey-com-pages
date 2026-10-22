@@ -1,0 +1,49 @@
+{
+  "title": "Leica GS18 T Tilt-Compensated GNSS Smart Antenna",
+  "model": "GS18 T",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "GPS",
+  "categories": [
+    "GPS",
+    "GNSS receivers",
+    "Smart antennas",
+    "Tilt compensation"
+  ],
+  "summary": "The GS18 T is a multi-frequency GNSS rover with tilt compensation, so the pole never has to be levelled. Push the tip to the point, tip the pole, and the instrument compensates for the tilt up to 30 degrees while you keep working.\n\nThe tilt solution uses no magnetometer, which matters on real jobsites: it stays accurate in steel, on machinery, and around vehicles, where magnetometer-based instruments drift. For a crew that spends its day setting control, shooting detail, and checking as-builts, that removes the levelling step entirely.\n\n555 channels, 8 mm + 1 ppm RTK on a single baseline, 4G LTE and an optional UHF radio for base-to-rover work over the site.",
+  "specs": [
+    "555 channels, multi-constellation multi-frequency tracking",
+    "RTK single baseline: H 8 mm + 1 ppm / V 15 mm + 1 ppm; network RTK H 8 mm + 0.5 ppm / V 15 mm + 0.5 ppm",
+    "Tilt-compensated RTK: additional H uncertainty under 2 mm + 0.3 mm/degree down to 30 degrees tilt, no magnetometer used",
+    "Static and rapid static: H 3 mm + 0.5 ppm / V 5 mm + 0.5 ppm; static long H 3 mm + 0.1 ppm / V 3.5 mm + 0.4 ppm",
+    "RTK initialisation typically 4 s",
+    "4G LTE plus UHF radio 403-473 MHz",
+    "1.23 kg instrument, 3.53 kg standard RTK rover setup on pole; 173 x 173 x 109 mm",
+    "Li-ion 2.8 Ah / 11.1 V, up to 8 h; IP66 / IP68, operating -40 to +65 degrees C"
+  ],
+  "accessories": [
+    "Leica TS13 robotic total station for a hybrid GNSS and total station setup: the total station tracks a prism on the antenna",
+    "Survey pole and pole holder",
+    "Tribrach with 5/8-inch thread",
+    "UHF radio antenna kit for base-to-rover",
+    "Battery charger and spare Li-ion battery"
+  ],
+  "related": [],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "draft",
+  "id": "leica-gs18-t",
+  "images": [
+    "leica-gs18-t-001.jpg",
+    "leica-gs18-t-002.jpg",
+    "leica-gs18-t-003.jpg"
+  ]
+}
