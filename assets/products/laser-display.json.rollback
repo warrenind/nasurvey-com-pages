@@ -1,0 +1,20 @@
+{
+  "model": "",
+  "brand": "",
+  "group": "Core equipment",
+  "category": "Laser detectors",
+  "categories": [
+    "Laser detectors"
+  ],
+  "images": [
+    "Laser Display.png"
+  ],
+  "summary": "Laser detector / display unit used to find and read rotating laser beams in bright or long-range conditions.",
+  "specs": [],
+  "accessories": [],
+  "condition": "Used",
+  "availability": "Ask for availability",
+  "status": "available",
+  "id": "laser-display",
+  "title": "Laser Display"
+}

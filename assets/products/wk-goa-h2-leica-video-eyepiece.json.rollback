@@ -1,0 +1,41 @@
+{
+  "model": "96-8542-GOA-H2",
+  "brand": "Leica Geosystems",
+  "category": "Total station accessories",
+  "summary": "Warren-Knight Leica video eyepiece for inspection and alignment documentation.",
+  "specs": [
+    "GOA-H2 video eyepiece",
+    "Leica-compatible family",
+    "Serial-specific availability"
+  ],
+  "condition": "New",
+  "availability": "Ask for availability",
+  "accessories": [
+    "Instrument camera system",
+    "Mounting adapters"
+  ],
+  "images": [
+    "wk-goa-h2-leica-video-eyepiece-006.jpg",
+    "wk-goa-h2-leica-video-eyepiece-010.jpg",
+    "wk-goa-h2-leica-video-eyepiece-011.jpg"
+  ],
+  "categories": [
+    "Total station accessories",
+    "Video Camera Systems & Eyepieces",
+    "Optical tooling"
+  ],
+  "status": "available",
+  "id": "wk-goa-h2-leica-video-eyepiece",
+  "title": "WK-GOA-H2 Leica Video Eyepiece",
+  "brands": [
+    "Leica Geosystems",
+    "Warren-Knight"
+  ],
+  "conditions": [
+    "New"
+  ],
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "related": []
+}

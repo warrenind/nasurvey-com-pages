@@ -1,0 +1,60 @@
+{
+  "title": "Leica TS13 Robotic Total Station",
+  "model": "TS13",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Total stations",
+  "categories": [
+    "Total stations",
+    "Robotic total stations",
+    "Construction total stations"
+  ],
+  "summary": "The TS13 starts as a two-person instrument and becomes a one-person robotic system when you add the keyboard, follow-me lock, SpeedSearch, and radio connectivity. Angular accuracy comes in 1, 2, 3, and 5 second versions, so the same family covers a stakeout crew and a control crew.\n\nAutoHeight measures the instrument height for you, ATR locks onto the target automatically to 1,000 m with a circular prism, and EGL guides the operator to the point. Single prism accuracy is 1 mm + 1 ppm, typically 2.4 seconds, and non-prism reaches beyond 1,000 m.\n\nThe TS13 is a named sensor in the Leica X-PAD portfolio, so a crew already running X-PAD on a GS05 or GS11 keeps one interface, one dataset per job, and one data format (HeXML) across GNSS and total station. It runs Leica Captivate as well: Captivate for maximum capability and specialised applications, X-PAD for the focused everyday routines.",
+  "specs": [
+    "Angular accuracy 1, 2, 3 and 5 seconds (horizontal and vertical)",
+    "Prism range 0.9-3,500 m; non-prism above 500 m (R500) and above 1,000 m (R1000)",
+    "Single prism 1 mm + 1 ppm, typically 2.4 s; prism fast 2 mm + 1 ppm, typically 1.5 s; single any surface 2 mm + 2 ppm, typically 2 s",
+    "ATR automatic target aiming to 1,000 m with a circular prism and 800 m with a 360 degree prism; ATR angle accuracy equals instrument accuracy",
+    "EGL guide light 5-150 m, typically 5 cm at 100 m",
+    "AutoHeight instrument-height measurement, 1.0 mm accuracy over 0.7-2.7 m",
+    "Laser dot 8 x 20 mm at 50 m",
+    "5.0 kg including battery (5.3 kg in the robotic configuration); Li-ion up to 8 h; IP55, operating -20 to +50 degrees C"
+  ],
+  "accessories": [
+    "Robotic upgrade kit: keyboard, follow-me lock and radio/controller connectivity",
+    "Field controller running Leica Captivate or Leica X-PAD",
+    "Leica CSX8 controller tablet for Leica X-PAD",
+    "Leica GS11 or GS05 GNSS smart antenna for a hybrid GNSS and total station setup: the total station tracks a prism on the antenna",
+    "Tribrach, 5/8-inch adapter, and carry case",
+    "Prism pole with prism, mini prism, and prism holder"
+  ],
+  "related": [
+    "leica-x-pad",
+    "leica-csx8",
+    "leica-gs11",
+    "leica-gs05"
+  ],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-ts13",
+  "images": [
+    "leica-ts13-002.jpg",
+    "leica-ts13-001.jpg",
+    "leica-ts13-003.jpg",
+    "leica-ts13-004.jpg",
+    "leica-ts13-005.jpg",
+    "leica-ts13-006.jpg",
+    "leica-ts13-007.jpg",
+    "leica-ts13-008.jpg",
+    "leica-portfolio-gs05-gs11-ts13.jpg"
+  ]
+}

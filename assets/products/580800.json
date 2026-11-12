@@ -1,0 +1,24 @@
+{
+  "model": "580800",
+  "brand": "",
+  "category": "",
+  "categories": [
+    "Optical tooling"
+  ],
+  "images": [
+    "580800.png"
+  ],
+  "summary": "Provides precise control of vertical motion throughout approximately ½” range.",
+  "specs": [
+    "Generally used for fine vertical positioning after the instrument height has been roughly established with a stand column.",
+    "Large diameter, fine-motion screw allows minute height adjustments of previously leveled instruments",
+    "2.825 x 20 external thread.",
+    "Recessed dovetail socket allows mounting of slides or other configured products on top, with socket head set screws to hold them in place."
+  ],
+  "accessories": [],
+  "condition": "",
+  "availability": "",
+  "status": "available",
+  "id": "580800",
+  "title": "580800 Precision Lift"
+}

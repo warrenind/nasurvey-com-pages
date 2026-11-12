@@ -1,0 +1,61 @@
+{
+  "title": "Calibration Services",
+  "model": "",
+  "brand": "Brunson",
+  "brands": [
+    "Brunson",
+    "Brunson Instrument Co.",
+    "David White",
+    "Geomax",
+    "Kern",
+    "Laser Reference",
+    "Leica Geosystems",
+    "Nikon / Spectra Precision",
+    "Seco",
+    "SitePro",
+    "Sokkia",
+    "South Surveying",
+    "Stonex",
+    "Topcon",
+    "Warren-Knight",
+    "Wild"
+  ],
+  "condition": "",
+  "conditions": [],
+  "availability": "",
+  "availabilities": [],
+  "category": "Auto-collimating eyepieces",
+  "categories": [
+    "Auto-collimating eyepieces",
+    "Automatic levels",
+    "Data collectors & tablets",
+    "Drum clinometers",
+    "Laser detectors",
+    "Lasers",
+    "Lateral slides",
+    "Magnetic locators",
+    "Mounting adapters",
+    "Optical mirrors",
+    "Optical tooling",
+    "Receivers and detectors",
+    "Smart and digital levels",
+    "Theodolites",
+    "Total station accessories",
+    "Total stations",
+    "Tribrachs",
+    "Video Camera Systems & Eyepieces",
+    "Calibration"
+  ],
+  "images": [
+    "NASS_Example.jpg"
+  ],
+  "summary": "Certification Level:\n\n1. Basic - NO Readings; Letter Only\n\n2. After - Readings After Calibration Only\n\n3. Before&After - Readings Before and After Calibration\n\n\nInstrument Class: \n\nA:  Abney Levels, Compasses, Levels, Transit-levels\n\nB:  Survey Transits, Optical Micrometers, Auto Levels without micrometer, Rotating Lasers, Optic Sights (ZBL), Diopters\n\nC:  Mechanical Theodolites, Collimators, Precision Levels, Alignment Scopes without Micrometers, Clinometers,\n       Jig Transits, Automatic Levels with Micrometers, Electronic Digital Levels, Total Stations, Auto Collimation\n       Mirrors, Total Stations ie., Topcon, Nikon, Sokkia (NOT those in E below).\n\nD:  Jig Transits with Micrometers or Accessories, 1” Electronic Theodolites, Alignment Scopes with Micrometer, \n       376RH Jig Transit with Crosscopes with or without Micrometers.\n\nE:  Electronic Theodolites: Leica/Wild T2000, T2000A, T2002, T3000, T3000A, TM5100A, TM6100A,\n       TS06/07/09 Total Stations, Optical Clinometers.",
+  "specs": [],
+  "accessories": [
+    "Abney Levels, Compasses, Clinometers, Propeller Protractors, Theodolites, Optical Clinometers"
+  ],
+  "related": [],
+  "status": "available",
+  "id": "calibration",
+  "documents": []
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Leica Zeno FLX100 Plus GNSS Smart Antenna",
+  "model": "Zeno FLX100 Plus",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "GPS",
+  "categories": [
+    "GPS",
+    "GNSS receivers",
+    "Smart antennas",
+    "GIS data collection"
+  ],
+  "summary": "The Zeno FLX100 Plus is a compact multi-frequency GNSS smart antenna for GIS and field data collection, and it has no fixed working distance: put it on a pole for survey-grade accuracy, carry it in a handheld tray, or pair it with your own phone or tablet.\n\n184 channels across GPS, GLONASS, Galileo, BeiDou, QZSS, and SBAS, RTK at 2 cm + 1 ppm horizontally, unlimited tilt compensation, and an update rate up to 10 Hz. It is IP67 and weighs 319 grams, so it is genuinely a carry-it instrument rather than a set-up-on-a-tripod one.\n\nIt works with Leica Zeno Mobile on Android, iOS, and Windows, and syncs to Esri ArcGIS Online, which makes it a natural fit for asset inventories and utility data capture.",
+  "specs": [
+    "184 channels, multi-constellation multi-frequency (GPS, GLONASS, Galileo, BeiDou, QZSS, SBAS)",
+    "RTK: H 2 cm + 1 ppm / V 3 cm + 1 ppm; static vertical 3 cm + 1 ppm",
+    "Tilt compensation unlimited, additional H uncertainty under 1.8 cm down to 30 degrees tilt",
+    "Update rate up to 10 Hz",
+    "Bluetooth 5.0; internal battery 3.8 V / 6120 mAh, over 20 h operation, 4 h to full charge",
+    "319 g, 139 x 80.6 x 31 mm, IP67; storage -40 to +80 degrees C",
+    "Works with Leica Zeno Mobile on Android 12, iOS, and Windows; Esri ArcGIS Online synchronisation"
+  ],
+  "accessories": [
+    "Survey pole and pole holder",
+    "Handheld pole mount and carry tray",
+    "Belt pouch and charging cable"
+  ],
+  "related": [],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-zeno-flx100-plus",
+  "images": [
+    "leica-zeno-flx100-plus-001.png",
+    "leica-zeno-flx100-plus-002.png",
+    "leica-zeno-flx100-plus-003.png",
+    "leica-zeno-flx100-plus-004.png",
+    "leica-zeno-flx100-plus-005.png",
+    "leica-zeno-flx100-plus-006.png"
+  ]
+}

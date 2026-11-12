@@ -1,0 +1,53 @@
+{
+  "title": "Geomax Zenith60 GNSS Smart Antenna",
+  "model": "Zenith60",
+  "brand": "Geomax",
+  "brands": [
+    "Geomax"
+  ],
+  "category": "GPS",
+  "categories": [
+    "GPS",
+    "GNSS receivers",
+    "Smart antennas",
+    "Tilt compensation"
+  ],
+  "summary": "The Zenith60 is a multi-frequency GNSS smart antenna built for construction work, with calibration-free tilt compensation that stays accurate around steel and machinery because it uses no magnetometer.\n\n555 channels on the NovAtel OEM719 engine, RTK at 8 mm + 1 ppm on a single baseline, 4G LTE as standard, and an optional UHF radio for base-to-rover coverage across a site. Positioning runs at 5 Hz, or 20 Hz as an option.\n\nHot-swappable batteries give 12.5 hours static and 11 hours rover. Variants cover LTE, LTE-UHF, and IMU packages, and it pairs with GeoMax and Leica controllers running field software for stakeout and data collection.",
+  "specs": [
+    "555 channels, multi-frequency multi-constellation (GPS, GLONASS, Galileo, BeiDou, QZSS, NavIC, SBAS)",
+    "RTK single baseline: H 8 mm + 1 ppm / V 15 mm + 1 ppm; network RTK H 8 mm + 0.5 ppm / V 15 mm + 0.5 ppm",
+    "Static H 3 mm + 0.5 ppm / V 5 mm + 0.5 ppm; static long H 3 mm + 0.1 ppm / V 3.5 mm + 0.4 ppm",
+    "Calibration-free tilt compensation, additional H uncertainty 2 cm up to 30 degrees tilt, magnetically resistant",
+    "Positioning rate 5 Hz, 20 Hz optional; RTK initialisation typically 4 s",
+    "4G LTE (QUECTEL EG25-G), optional SATEL TR4+ UHF 403-473 MHz, Bluetooth, WLAN, USB and serial",
+    "IP68; operating -40 to +65 degrees C; 1.14 kg without batteries, 1.36 kg with two",
+    "Hot-swappable Li-ion 3.4 Ah: 12.5 h static / 11 h rover"
+  ],
+  "accessories": [
+    "Leica X-PAD field software",
+    "Leica CSX8 controller tablet",
+    "Survey pole, pole holder and tribrach",
+    "UHF radio antenna kit",
+    "Hot-swappable battery and charger",
+    "Field controller and carry case"
+  ],
+  "related": [
+    "leica-x-pad",
+    "leica-csx8"
+  ],
+  "condition": "",
+  "conditions": [],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "geomax-zenith60",
+  "images": [
+    "geomax-zenith60-005.png",
+    "geomax-zenith60-003.jpg",
+    "geomax-zenith60-004.jpg",
+    "geomax-zenith60-002.jpg",
+    "geomax-zenith60-001.png"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "model": "34-7551",
+  "brand": "Warren-Knight",
+  "category": "Mounts and bases",
+  "summary": "Offset sphere holder for a T3000 alignment setup.",
+  "specs": [
+    "1.5 inch sphere holder",
+    "12 inch offset",
+    "T3000 family component"
+  ],
+  "condition": "Used",
+  "availability": "Ask for availability",
+  "accessories": [
+    "Mounting adapters",
+    "Alignment bases"
+  ],
+  "images": [
+    "t3000-sphere-holder-001.jpg",
+    "t3000-sphere-holder-002.jpg",
+    "t3000-sphere-holder-003.jpg",
+    "t3000-sphere-holder-004.jpg",
+    "t3000-sphere-holder.jpg"
+  ],
+  "categories": [
+    "Mounts and bases",
+    "Optical tooling"
+  ],
+  "status": "available",
+  "id": "t3000-sphere-holder",
+  "title": "T3000 Sphere Holder"
+}

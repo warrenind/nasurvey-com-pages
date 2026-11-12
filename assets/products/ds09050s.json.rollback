@@ -1,0 +1,39 @@
+{
+  "title": "SitePro 050S GPS Antenna Tripod",
+  "model": "050S",
+  "brand": "SitePro",
+  "brands": [
+    "SitePro"
+  ],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "",
+  "availabilities": [],
+  "category": "Tripods & Stands",
+  "categories": [
+    "Tripods & Stands"
+  ],
+  "images": [
+    "DS09050S-main.png"
+  ],
+  "summary": "The SitePro 050S GPS antenna tripod, ideal for GNSS, GPS, and\nmachine-control applications, features rugged aluminum construction\nwith dual-lock extendable tripod legs, fine adjustment, and a collapsible\n2-meter center staff.",
+  "specs": [
+    "Collapsible center staff rotates 360° to check calibration of the plumb",
+    "Dual graduations with positive locking pin adjust to three standard heights: 2.0 m, 1.8 m, and 1.5 m",
+    "Collapses to 50 inches (127 cm)",
+    "Integrated fine adjustment enables quick, precise leveling adjustments without having to reset leg clamps",
+    "Dual-locking tripod legs feature both quick-release levers and secondary twist-lock mechanisms for maximum stability and speed in the field",
+    "Lightweight, heavy-duty aluminum legs and staff are electrostatically powder-coated in standard yellow",
+    "Anodized black aluminum hardware for long wear life and corrosion resistance",
+    "Removable 5/8-11 threaded head adapter accepts standard GNSS antennas and surveying instruments",
+    "Replaceable points on tripod feet and center staff",
+    "Large attachable soft-turf spurs (included) provide extra grip and stability on soft ground to prevent twisting"
+  ],
+  "accessories": [],
+  "related": [],
+  "status": "available",
+  "id": "ds09050s",
+  "documents": []
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Leica GS11 GNSS Smart Antenna",
+  "model": "GS11",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "GPS",
+  "categories": [
+    "GPS",
+    "GNSS receivers",
+    "Smart antennas",
+    "Visual surveying"
+  ],
+  "summary": "The GS11 is a multi-constellation GNSS smart antenna with visual surveying built in. Its dual cameras, integrated Class 3R green laser and calibration-free tilt compensation give three ways to reach a point: pole it, tilt it, or shoot it from the imagery.\n\nPaired with Leica X-PAD, the cameras become workflows rather than pictures. Visual stakeout overlays navigation guidance on live site imagery, AR visual survey overlays captured data on the live stream, and image groups let the surveyor create points where the pole tip cannot safely go. Leica quotes image points at typically 5 mm + 2 mm/m up to 10 m, and laser points at typically 10 mm + 5 mm/m up to 25 m.\n\nUnderneath it is a serious receiver: 1400+ channels, 8 mm + 1 ppm RTK, dual hot-swappable batteries for a 12 hour day, and 4G LTE with UHF for base-to-rover work. Two configurations: the GS11 T for conventional GNSS surveying with tilt compensation, and the GS11 I with imaging and laser.",
+  "specs": [
+    "1400+ channels, multi-frequency multi-constellation: GPS, GLONASS, Galileo, BeiDou, QZSS, NavIC, SBAS",
+    "RTK single baseline: H 8 mm + 1 ppm / V 15 mm + 1 ppm; network RTK H 8 mm + 0.5 ppm / V 15 mm + 0.5 ppm",
+    "Tilt-compensated RTK: additional H uncertainty under 2 mm + 0.3 mm/degree down to 30 degrees tilt, calibration-free and magnetically resistant",
+    "RTK initialisation typically under 5 s; static with long observations H 3 mm + 0.1 ppm / V 3.5 mm + 0.4 ppm",
+    "Dual cameras: front global-shutter 2 MP at 80 x 69 degrees, 25 fps; down rolling-shutter 5 MP at 80 x 69 degrees, 25 fps (GS11 I)",
+    "Integrated green Class 3R laser for indirect point measurement (GS11 I)",
+    "Image point measurement typically 5 mm + 2 mm/m (2D) up to 10 m; laser point measurement typically 10 mm + 5 mm/m (2D) up to 25 m",
+    "Built-in LTE and UHF (GS11 T 410-470 MHz, GS11 I 403-473 MHz), max 1 W output",
+    "Two hot-swappable Li-Ion batteries (3.35 Ah / 7.2 V, 24.12 Wh), typical up to 12 h in GNSS rover mode",
+    "Internal memory up to 8 GB, RINEX data up to 20 Hz; IP66 / IP67, -10 to +60 degrees C with camera"
+  ],
+  "accessories": [
+    "Leica CSX8 controller tablet or other Android device",
+    "Leica X-PAD field software and Leica X-PAD Fusion office software",
+    "Leica TS13 robotic total station for a hybrid GNSS and total station setup: the total station tracks a prism on the antenna",
+    "Survey pole and pole holder",
+    "Tribrach with 5/8-inch thread",
+    "Hot-swappable batteries and charger"
+  ],
+  "related": [
+    "leica-x-pad",
+    "leica-csx8",
+    "leica-gs05",
+    "leica-ts13"
+  ],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-gs11",
+  "images": [
+    "leica-gs11-001.jpg",
+    "leica-gs11-002.jpg",
+    "leica-gs11-003.jpg",
+    "leica-gs11-004.jpg",
+    "leica-gs11-005.jpg",
+    "leica-gs11-006.jpg",
+    "leica-gs11-007.jpg",
+    "leica-gs11-008.jpg",
+    "leica-gs11-009.jpg",
+    "leica-portfolio-gs05-gs11-ts13.jpg"
+  ]
+}

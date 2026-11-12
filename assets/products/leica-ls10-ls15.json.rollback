@@ -1,0 +1,47 @@
+{
+  "title": "Leica LS10 / LS15 Digital Levels",
+  "model": "LS10 / LS15",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Levels and transits",
+  "categories": [
+    "Levels and transits",
+    "Smart and digital levels",
+    "Automatic levels"
+  ],
+  "summary": "The LS10 and LS15 are digital levels with a colour touch display and integrated distance measurement, so one instrument carries the elevation and the distance to the staff. The LS10 handles general site levelling; the LS15 is the precision model, with autofocus on Invar staffs and an overview camera for reading the staff.\n\nHeight accuracy with an Invar staff is 0.3 mm on the LS10 and 0.2-0.3 mm on the LS15, and 1.0 mm with a standard staff on both. Distance is measured at the same time, to 15 mm at 30 m, which removes a second instrument and a second crew from the workflow.\n\nIt is the right tool for benchmark height transfer, deformation and settlement monitoring profiles, and construction levelling where the readout has to be both the elevation and the distance.",
+  "specs": [
+    "Height accuracy with standard Invar staff: 0.3 mm (LS10), 0.2 / 0.3 mm (LS15); 1.0 mm with standard staff on both",
+    "Distance accuracy 15 mm at 30 m; measurement range 1.8-110 m, typically 2.5 s per measurement",
+    "LS15 autofocus from 1.8 m to infinity; overview camera accuracy 3 gon (2.7 degrees)",
+    "Compensator range +/- 9 minutes, setting accuracy 0.3 seconds",
+    "32x telescope",
+    "3.6-inch QVGA colour touch display",
+    "30,000 measurements internal memory plus USB stick; RS232 and USB on the LS15",
+    "3.7 kg (LS10) / 3.9 kg (LS15); Li-ion 12 h (LS10), 10-12 h (LS15); -20 to +50 degrees C"
+  ],
+  "accessories": [
+    "Digital staff and staff holder",
+    "Invar precision staff for the LS15",
+    "Field controller for export",
+    "Carry case and tripod"
+  ],
+  "related": [],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-ls10-ls15",
+  "images": [
+    "leica-ls10-ls15-001.jpg",
+    "leica-ls10-ls15-002.jpg",
+    "leica-ls10-ls15-003.jpg"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "model": "Johnson Theo",
+  "brand": "Warren-Knight",
+  "category": "Auto-collimating eyepieces",
+  "summary": "Auto-collimating eyepiece photographed with a Johnson theodolite setup.",
+  "specs": [
+    "Johnson theodolite accessory",
+    "Optical alignment use",
+    "Confirm interface before quote"
+  ],
+  "condition": "Used",
+  "availability": "Ask for availability",
+  "accessories": [
+    "Illuminators",
+    "Optical mounts"
+  ],
+  "images": [
+    "johnson-theodolite-auto-collimating-eyepiece-001.jpg",
+    "johnson-theodolite-auto-collimating-eyepiece-002.jpg",
+    "johnson-theodolite-auto-collimating-eyepiece-003.jpg",
+    "johnson-theodolite-auto-collimating-eyepiece-004.jpg",
+    "johnson-theodolite-auto-collimating-eyepiece.jpg"
+  ],
+  "categories": [
+    "Auto-collimating eyepieces",
+    "Optical tooling"
+  ],
+  "status": "available",
+  "id": "johnson-theodolite-auto-collimating-eyepiece",
+  "title": "Johnson Theodolite Auto-Collimating Eyepiece"
+}

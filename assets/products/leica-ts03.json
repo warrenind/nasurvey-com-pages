@@ -1,0 +1,56 @@
+{
+  "title": "Leica FlexLine TS03 Manual Total Station",
+  "model": "TS03",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Total stations",
+  "categories": [
+    "Total stations",
+    "Construction total stations",
+    "Manual total stations"
+  ],
+  "summary": "The FlexLine TS03 is Leica's classic manual total station: a proven instrument for the survey and layout work that fills the week, without the complexity of a robotic setup. It runs Leica FlexField software onboard, so most survey and stakeout tasks are carried out without leaving the instrument.\n\nAngular accuracy is available in 2, 3 and 5 second versions, with prism range from 0.9 m to 3,500 m and non-prism measurement over any surface to 500 m. Endless drives in both axes, a user-definable trigger key and pinpoint EDM keep the points coming.\n\nIt is built to be worked hard: IP66, -20 to +50 degrees C, Military Standard 810G and 4.3 kg. LOC8 tracking and theft deterrence can be fitted to keep an eye on the instrument while it is out on site.",
+  "specs": [
+    "Angular accuracy 2, 3 and 5 seconds (absolute, continuous, diametrical), display resolution 0.1 seconds",
+    "Prism range (GPR1, GPH1P) 0.9 m to 3,500 m; GPR1 long range mode over 10,000 m",
+    "Non-prism over any surface to 500 m: 2 mm + 2 ppm, typically 2.4 s (R1000 not available on this model)",
+    "Single prism 1 mm + 1.5 ppm, typically 2.4 s; tracking 3 mm + 1.5 ppm, typically under 0.15 s",
+    "Quadruple axis compensation, compensator range +/- 4 minutes, setting accuracy 0.5 / 1 / 1.5 / 2 seconds",
+    "30x telescope, focus 1.55 m to infinity, 3 second resolving power",
+    "3.5-inch QVGA grayscale display with 28 keys; endless drives and a user-definable trigger key",
+    "Operating time up to 30 hours with the GEB361 battery",
+    "4 GB internal memory, SD card and USB memory stick; RS232 and USB interfaces",
+    "IP66, -20 to +50 degrees C, Military Standard 810G, 4.3 kg",
+    "LOC8 tracking and theft deterrence device available as an option",
+    "Leica FlexField software onboard"
+  ],
+  "accessories": [
+    "Leica CSX8 controller tablet with Leica X-PAD field software",
+    "Prism pole with prism and holder",
+    "Tribrach and 5/8-inch adapter",
+    "GEB361 battery and charger",
+    "LOC8 tracking and theft deterrence kit",
+    "Carry case"
+  ],
+  "related": [
+    "leica-ts13",
+    "leica-x-pad",
+    "leica-csx8"
+  ],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-ts03",
+  "images": [
+    "leica-ts03-002.jpg",
+    "leica-ts03-004.jpg"
+  ]
+}
