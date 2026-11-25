@@ -1,0 +1,27 @@
+{
+  "title": "Spectra Precision HL-450 Universal Digital Laser Receiver",
+  "model": "HL-450",
+  "brand": "Spectra Precision",
+  "category": "Lasers",
+  "categories": [
+    "Lasers"
+  ],
+  "images": [
+    "spectra-hl-450_hl-450_spectra-hl450--spectra-hl450-universal-digital-laser-receiver.jpg",
+    "spectra-hl-450_hl-450_spectra-hl450--spectra-hl450-universal-digital-laser-receiver-back.jpg",
+    "spectra-hl-450_hl-450_spectra-hl450--spectra-hl450-universal-digital-laser-receiver-box.jpg"
+  ],
+  "summary": "Spectra Precision HL-450 universal digital laser receiver with strobe filter and clamp.",
+  "specs": [
+    "Model: HL-450",
+    "Strobe filter: yes",
+    "Precision levels: 5 ft",
+    "Other numbers: SPECTRA-HL450"
+  ],
+  "accessories": [],
+  "condition": "",
+  "availability": "",
+  "status": "available",
+  "id": "spectra-hl-450",
+  "related": []
+}

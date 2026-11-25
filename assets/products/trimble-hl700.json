@@ -1,0 +1,27 @@
+{
+  "title": "Trimble HL700 Universal Digital Laser Receiver",
+  "model": "TRIMBLE-HL700",
+  "brand": "Trimble",
+  "category": "Lasers",
+  "categories": [
+    "Lasers"
+  ],
+  "images": [
+    "trimble-hl700_hl700--trimble-hl700-universal-digital-laser-receiver.jpg",
+    "trimble-hl700_hl700--trimble-hl700-universal-digital-laser-receiver-back.jpg",
+    "trimble-hl700_hl700--trimble-hl700-universal-digital-laser-receiver-box.jpg"
+  ],
+  "summary": "Trimble HL700 digital laser receiver with clamp and 1000 ft range.",
+  "specs": [
+    "Model: HL700",
+    "Range: 1000 ft",
+    "Accuracy levels: five",
+    "Other numbers: TRIMBLE-HL700"
+  ],
+  "accessories": [],
+  "condition": "",
+  "availability": "",
+  "status": "available",
+  "id": "trimble-hl700",
+  "related": []
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Topcon LS80X-A / 1AA239328 Level Sensor",
+  "model": "LS80X-A",
+  "brand": "Topcon",
+  "category": "Lasers",
+  "categories": [
+    "Lasers"
+  ],
+  "images": [
+    "top-ls80x-a_ls80x-a_1aa239328--ls80x-a-1aa239328-level-sensor.jpg",
+    "top-ls80x-a_ls80x-a_1aa239328--ls80x-a-1aa239328-level-sensor-back.jpg"
+  ],
+  "summary": "Topcon LS80X-A / 1AA239328 Level Sensor.",
+  "specs": [
+    "Part: 1AA239328",
+    "Type: level sensor"
+  ],
+  "accessories": [],
+  "condition": "",
+  "availability": "",
+  "status": "available",
+  "id": "top-ls80x-a",
+  "related": []
+}

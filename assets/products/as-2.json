@@ -1,0 +1,30 @@
+{
+  "title": "AS2 Pro Shot Slope Laser",
+  "model": "LR-AS2",
+  "brand": "Laser Reference",
+  "category": "Lasers",
+  "categories": [
+    "Lasers"
+  ],
+  "images": [
+    "as-2_lr-as2_as2_300-0000s--as2-pro-shot-slope-laser.jpeg"
+  ],
+  "summary": "Pro Shot single-slope laser with receiver, clamp, and case.",
+  "specs": [
+    "Brand: Laser Reference",
+    "Model: AS2 / Pro Shot",
+    "Catalog item: LR-AS2",
+    "Mfr number: 300-0000S",
+    "Includes: receiver, clamp, case"
+  ],
+  "accessories": [
+    "Receiver",
+    "Clamp",
+    "Case"
+  ],
+  "condition": "",
+  "availability": "",
+  "status": "available",
+  "id": "as-2",
+  "related": []
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Topcon RC200 Remote Controller",
+  "model": "TOP-RC200",
+  "brand": "Topcon",
+  "category": "Lasers",
+  "categories": [
+    "Lasers"
+  ],
+  "images": [
+    "top-rc200_rc200_d36304--l5-d36304-topcon-remote-controller-329590002.jpg"
+  ],
+  "summary": "Topcon RC-200 remote control for TP-L4 pipe laser 56925.",
+  "specs": [
+    "Model: RC200",
+    "Part: D36304"
+  ],
+  "accessories": [],
+  "condition": "",
+  "availability": "",
+  "status": "available",
+  "id": "top-rc200",
+  "related": []
+}

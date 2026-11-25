@@ -1,0 +1,24 @@
+{
+  "title": "188046 Topcon BDC46C Battery, 2430 mAh",
+  "model": "188046",
+  "brand": "Topcon",
+  "category": "Field supplies",
+  "categories": [
+    "Field supplies"
+  ],
+  "images": [
+    "188046--topcon-corporation-bdc46c-is16046-iec62133-2inr19-66-2430mah.jpg"
+  ],
+  "summary": "BDC46 lithium ion battery 7.2V 2450MAH for set sdl GPS rc-prx.",
+  "specs": [
+    "Battery: BDC46C",
+    "Cell: 2INR19-66",
+    "Capacity: 2430 mAh"
+  ],
+  "accessories": [],
+  "condition": "",
+  "availability": "",
+  "status": "available",
+  "id": "188046",
+  "related": []
+}

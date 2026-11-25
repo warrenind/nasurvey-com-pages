@@ -1,0 +1,24 @@
+{
+  "title": "180001 Topcon BT-53Q Ni-MH Battery, 6500 mAh",
+  "model": "180001",
+  "brand": "Topcon",
+  "category": "Field supplies",
+  "categories": [
+    "Field supplies"
+  ],
+  "images": [
+    "180001--topcon-bt-53q-ni-mh-6500mah-battery.jpg"
+  ],
+  "summary": "BT-53Q NI-MH battery pack for TP-L5 pipe laser.",
+  "specs": [
+    "Battery: BT-53Q",
+    "Chemistry: Ni-MH",
+    "Capacity: 6500 mAh"
+  ],
+  "accessories": [],
+  "condition": "",
+  "availability": "",
+  "status": "available",
+  "id": "180001",
+  "related": []
+}

@@ -1,0 +1,24 @@
+{
+  "title": "180178 Topcon SB178 Battery Assembly",
+  "model": "180178",
+  "brand": "Topcon",
+  "category": "Field supplies",
+  "categories": [
+    "Field supplies"
+  ],
+  "images": [
+    "180178--topcon-sb178-990d002-abs-gf10-0180315744-210160172.jpg",
+    "180178--topcon-sb178-990d002-abs-gf10-0180315744-210160172-inside.jpg"
+  ],
+  "summary": "SB178 adapter for BDC46 to BDC70 size.",
+  "specs": [
+    "Assembly: SB178",
+    "Material: ABS-GF10"
+  ],
+  "accessories": [],
+  "condition": "",
+  "availability": "",
+  "status": "available",
+  "id": "180178",
+  "related": []
+}

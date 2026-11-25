@@ -1,0 +1,69 @@
+{
+  "title": "Leica X-PAD Field Software",
+  "model": "X-PAD",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Field software",
+  "categories": [
+    "Field software",
+    "Survey software"
+  ],
+  "summary": "X-PAD is the field software at the centre of the Leica X-PAD portfolio. Every instrument in the portfolio runs on it, so the crew gets one interface, one dataset per job, and one consistent way of working whether they are on a GNSS receiver or a robotic total station.\n\nIt is built around the tasks that fill the week, coded topographic survey and stakeout, not around every surveying task ever invented. CAD drawings, mapping, BIM models, field calculations, and visual surveying sit in the same place, with 2D, 3D, map, and site views so the data can be understood and verified before the crew leaves site.\n\nPaired with the Leica GS11, X-PAD adds the visual workflows: stakeout navigation over live site imagery, AR quality checks, measuring straight from images, and automatic image documentation. Paired with the TS13, it keeps one interface and one data format across a robotic total station and GNSS on the same truck.\n\nThe name is new, GeoMax X-PAD Ultimate becomes Leica X-PAD, but the workflows are the ones customers already know. Same interface, same data, no retraining. GeoMax instruments keep working with it and are supported until at least the end of 2030.\n\nX-PAD is not a replacement for Leica Captivate. Captivate is the onboard software for maximum capability across any surveying task; X-PAD offers a focused set of everyday surveying routines at a competitive price point.",
+  "specs": [
+    "Workflow-led field software for everyday surveying, with 2D, 3D, map and site views",
+    "CAD drawings, surfaces, BIM models, and field calculations in one workspace",
+    "Visual workflows with the GS11: visual survey and AR, visual stakeout, measure from images, laser measurement",
+    "HeXML as the common data format across the Leica ecosystem",
+    "Runs on the Leica CSX8 rugged controller tablet and other Android devices",
+    "Office companion: Leica X-PAD Fusion for import, processing, drawings, surfaces, and reports",
+    "Services: HxGN SmartNet RTK and PPP corrections, Hexagon GeoCloud job storage and sync",
+    "Install from xpad.survey.ultimate.apk, not the old GeoMax X-PAD APK",
+    "X-PAD Connect configuration tool for supported GeoMax GNSS devices, available in the US and Canada"
+  ],
+  "accessories": [
+    "Leica CSX8 rugged controller tablet",
+    "Leica X-PAD Fusion office software",
+    "Leica GS11 and GS05 GNSS smart antennas",
+    "Leica TS13 and TS03 total stations",
+    "GeoMax Zenith 60 GNSS smart antenna",
+    "Leica TS13 robotic total station for a hybrid GNSS and total station setup: the total station tracks a prism on the antenna",
+    "HxGN SmartNet RTK or PPP correction service",
+    "Hexagon GeoCloud project storage",
+    "Customer Care Package subscription for major updates",
+    "X-PAD Connect configuration tool for supported GeoMax GNSS devices, available in the US and Canada"
+  ],
+  "related": [
+    "leica-csx8",
+    "leica-gs11",
+    "leica-gs05",
+    "leica-ts13",
+    "leica-ts03",
+    "geomax-zenith60"
+  ],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-x-pad",
+  "images": [
+    "leica-x-pad-001.jpg",
+    "leica-x-pad-002.jpg",
+    "leica-x-pad-003.jpg",
+    "leica-x-pad-004.jpg",
+    "leica-x-pad-005.jpg",
+    "leica-x-pad-006.jpg",
+    "leica-x-pad-007.jpg",
+    "leica-x-pad-008.jpg",
+    "leica-x-pad-009.jpg",
+    "leica-x-pad-010.jpg",
+    "leica-x-pad-011.jpg",
+    "leica-x-pad-012.jpg"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Leica Rugby 680 Grade Laser",
+  "model": "Rugby 680",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Lasers",
+  "categories": [
+    "Lasers",
+    "Rotating lasers",
+    "Construction lasers",
+    "Grade lasers"
+  ],
+  "summary": "The Rugby 680 is the grade laser: dial-in grade in both axes up to +/- 8%, with Smart Slope watching for drift as the day warms up and compensating for it. That is what separates it from the manual-slope models and makes it the right instrument for machine control.\n\nAccuracy is +/- 1.5 mm at 30 m, the working diameter reaches 900 m with a Rod Eye 120 and 1,100 m with the Rod Eye 140 or 160, and the battery runs up to 75 hours on Li-ion. IP67.\n\nSite preparation and levelling to grade with dozers, graders, and excavators, grade checking, ramps and driveways, formwork levelling and verticality, and wall set-out are the jobs it is built for.",
+  "specs": [
+    "Accuracy +/- 1.5 mm at 30 m (+/- 1/16 inch at 100 ft)",
+    "Grade range +/- 8% in both axes with Smart Slope enabled",
+    "635 nm red laser, Class 1, 10 rps rotation",
+    "Maximum working diameter 900 m with Rod Eye 120 / 120G; 1,100 m with Rod Eye 140 / 160",
+    "Up to 75 h on Li-ion; IP67; operating -20 to +50 degrees C"
+  ],
+  "accessories": [
+    "Rod Eye 120 / 120G receiver",
+    "Rod Eye 140 / 160 receiver",
+    "Machine control receiver for dozers and graders",
+    "Wall mount and carry case"
+  ],
+  "related": [],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-rugby-680",
+  "images": [
+    "leica-rugby-680-001.png",
+    "leica-rugby-680-002.jpg"
+  ]
+}

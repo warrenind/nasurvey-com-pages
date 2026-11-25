@@ -1,0 +1,43 @@
+{
+  "title": "Leica Rugby 610 Rotating Laser",
+  "model": "Rugby 610",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Lasers",
+  "categories": [
+    "Lasers",
+    "Rotating lasers",
+    "Construction lasers"
+  ],
+  "summary": "The Rugby 610 is a single-button self-levelling horizontal laser: one switch for on and off, self-levelling within 5 degrees, and nothing to configure. It is the simplest rotating laser Leica builds, and it is built to be used by crews who do not want to read a manual.\n\nAccuracy is +/- 2.2 mm at 30 m, the working diameter reaches 800 m with a Rod Eye 120 receiver and 1,100 m with the Rod Eye 140 or 160, and the battery runs up to 120 hours on Li-ion. IP67 with or without the battery fitted.\n\nIt covers the everyday work: levelling and aligning formwork, pads, and footings, transferring reference heights, and checking grade during a pour.",
+  "specs": [
+    "Accuracy +/- 2.2 mm at 30 m (+/- 3/32 inch at 100 ft)",
+    "Self-levelling range +/- 5 degrees",
+    "635 nm red laser, Class 1, 10 rps rotation",
+    "Maximum working diameter 800 m with Rod Eye 120 / 120G; 1,100 m with Rod Eye 140 / 160",
+    "Up to 120 h on Li-ion, up to 60 h on alkaline",
+    "IP67 with and without battery; operating -10 to +50 degrees C"
+  ],
+  "accessories": [
+    "Rod Eye 120 / 120G receiver",
+    "Rod Eye 140 / 160 receiver",
+    "Wall mount and carry case"
+  ],
+  "related": [],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-rugby-610",
+  "images": [
+    "leica-rugby-610-001.png",
+    "leica-rugby-610-002.jpg"
+  ]
+}

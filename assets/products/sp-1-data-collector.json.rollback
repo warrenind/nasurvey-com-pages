@@ -1,0 +1,20 @@
+{
+  "model": "",
+  "brand": "",
+  "group": "Core equipment",
+  "category": "Data collectors",
+  "categories": [
+    "Data collectors"
+  ],
+  "images": [
+    "SP1.jpg"
+  ],
+  "summary": "Handheld field data collector for logging survey points and controlling instruments.",
+  "specs": [],
+  "accessories": [],
+  "condition": "Used",
+  "availability": "Ask for availability",
+  "status": "available",
+  "id": "sp1",
+  "title": "SP-1 Data Collector"
+}

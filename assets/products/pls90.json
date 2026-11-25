@@ -1,0 +1,27 @@
+{
+  "title": "PLS90T Laser Level Tool",
+  "model": "PAC-PLS90t",
+  "brand": "",
+  "category": "Lasers",
+  "categories": [
+    "Lasers"
+  ],
+  "images": [
+    "pls90_pac-pls90t_pls90t--pls90t-laser-level-tool-3.jpg",
+    "pls90_pac-pls90t_pls90t--pls90t-laser-level-tool.jpg",
+    "pls90_pac-pls90t_pls90t--pls90t-laser-level-tool-2.jpg"
+  ],
+  "summary": "Pacific Laser Systems PLS 90 tool, shown without SLD detector; includes universal base-tripod adapter, carrying case, floor target and manual.",
+  "specs": [
+    "Model: PLS90T",
+    "Includes: universal base-tripod adapter, carrying case, floor target, manual",
+    "Detector: not included; SLD detector is included with PLS90S system",
+    "Catalog item: PAC-PLS90t"
+  ],
+  "accessories": [],
+  "condition": "",
+  "availability": "Not available",
+  "status": "available",
+  "id": "pls90",
+  "related": []
+}

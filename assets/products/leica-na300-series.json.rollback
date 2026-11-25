@@ -1,0 +1,42 @@
+{
+  "title": "Leica NA300 Series Automatic Levels",
+  "model": "NA300 series",
+  "brand": "Leica Geosystems",
+  "brands": [
+    "Leica Geosystems"
+  ],
+  "category": "Levels and transits",
+  "categories": [
+    "Levels and transits",
+    "Automatic levels"
+  ],
+  "summary": "The NA300 Series are automatic levels for everyday construction levelling: protected, ergonomic housings built around the mirror circle, scaled by precision class from the general-purpose NA320 up to the NA332.\n\nPer-kilometre double-levelling accuracy runs 2.5 mm on the NA320, 2.0 mm on the NA324, and 1.8 mm on the NA332, with 20x, 24x, and 32x magnification respectively. IP54, about 1.5 kg, and a horizontal circle for setting out angles.\n\nThey are the standard choice for foundation and slab levelling, grade transfer between benchmarks, and drainage and grading checks on site.",
+  "specs": [
+    "Standard deviation per km double levelling (ISO 17123-2): 2.5 mm (NA320), 2.0 mm (NA324), 1.8 mm (NA332)",
+    "Magnification 20x (NA320), 24x (NA324), 32x (NA332)",
+    "Objective aperture 36 mm; shortest target distance under 1.0 m; field of view at 100 m under 2.1 m",
+    "Compensator working range +/- 15 minutes, setting accuracy under 0.5 seconds, sensitivity 8/2 mm",
+    "Horizontal circle 360 degrees with 1 degree interval",
+    "1.5 kg net weight; operating -20 to +40 degrees C; IP54"
+  ],
+  "accessories": [
+    "Dioptra and micrometer",
+    "Aluminium staff and tripod",
+    "Carry case"
+  ],
+  "related": [],
+  "condition": "New",
+  "conditions": [
+    "New"
+  ],
+  "availability": "Ask for availability",
+  "availabilities": [
+    "Ask for availability"
+  ],
+  "status": "available",
+  "id": "leica-na300-series",
+  "images": [
+    "leica-na300-series-001.png",
+    "leica-na300-series-002.jpg"
+  ]
+}

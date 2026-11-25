@@ -1,0 +1,27 @@
+{
+  "model": "TOP-ATB3",
+  "brand": "Topcon",
+  "category": "Automatic levels",
+  "categories": [
+    "Automatic levels"
+  ],
+  "images": [
+    "at-b3_top-atb3--topcon-at-b3-automatic-level.png",
+    "at-b3_top-atb3--atb3a-topcon-main.jpg",
+    "at-b3_top-atb3--atb3a-topcon.jpg"
+  ],
+  "summary": "Topcon AT-B3 automatic level, 28x, 1.5 mm accuracy.",
+  "specs": [
+    "Model: AT-B3",
+    "Magnification: 28x",
+    "Accuracy: 1.5 mm",
+    "Catalog item: TOP-ATB3"
+  ],
+  "accessories": [],
+  "condition": "",
+  "availability": "",
+  "status": "available",
+  "id": "at-b3",
+  "title": "Topcon AT-B3 Automatic Level",
+  "related": []
+}

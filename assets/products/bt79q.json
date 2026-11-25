@@ -1,0 +1,24 @@
+{
+  "title": "Topcon BT-79Q Ni-MH Battery",
+  "model": "BT-79Q",
+  "brand": "Topcon",
+  "category": "Field supplies",
+  "categories": [
+    "Field supplies"
+  ],
+  "images": [
+    "bt79q_bt-79q_1025029-01--bt-79q-topcon-ni-mh-battery-1025029-01.jpg"
+  ],
+  "summary": "Topcon BT-79Q Ni-MH Battery.",
+  "specs": [
+    "Battery: BT-79Q",
+    "Chemistry: Ni-MH",
+    "Part: 1025029-01"
+  ],
+  "accessories": [],
+  "condition": "",
+  "availability": "",
+  "status": "available",
+  "id": "bt79q",
+  "related": []
+}
